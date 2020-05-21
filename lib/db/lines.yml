@@ -1,0 +1,60 @@
+-
+  name: Сокольническая
+  uid: "1"
+  color: "#f91f22"
+-
+  name: Замоскворецкая
+  uid: "2"
+  color: "#05ff16"
+-
+  name: Арбатско-Покровская
+  uid: "3"
+  color: "#2075b1"
+-
+  name: Филевская
+  uid: "4"
+  color: "#52d2f4"
+-
+  name: Кольцевая
+  uid: "5"
+  color: "#75573e"
+-
+  name: Калужско-Рижская
+  uid: "6"
+  color: "#f6990e"
+-
+  name: Таганско-Краснопресненская
+  uid: "7"
+  color: "#821c71"
+-
+  name: Калининская
+  uid: "8"
+  color: "#efc943"
+-
+  name: Солнцевская
+  uid: "8A"
+  color: "#efc943"
+-
+  name: Серпуховско-Тимирязевская
+  uid: "9"
+  color: "#bdbcbc"
+-
+  name: Люблинско-Дмитровская
+  uid: "10"
+  color: "#b1d87d"
+-
+  name: Большая кольцевая
+  uid: "11"
+  color: "#a6ded2"
+-
+  name: Каховская
+  uid: "11A"
+  color: "#a6ded2"
+-
+  name: Бутовская
+  uid: "12"
+  color: "#c8bcd2"
+-
+  name: Некрасовская
+  uid: "15"
+  color: "#e363b3"

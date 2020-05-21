@@ -1,0 +1,1104 @@
+-
+  name: Авиамоторная
+  line_uid: "8"
+-
+  name: Авиамоторная
+  line_uid: "11"
+-
+  name: Авиамоторная
+  line_uid: "15"
+-
+  name: Автозаводская
+  line_uid: "2"
+-
+  name: Автозаводская
+  line_uid: "14"
+-
+  name: Академическая
+  line_uid: "6"
+-
+  name: Александровский сад
+  line_uid: "4"
+-
+  name: Алексеевская
+  line_uid: "6"
+-
+  name: Алма-Атинская
+  line_uid: "2"
+-
+  name: Алтуфьево
+  line_uid: "9"
+-
+  name: Аминьевская
+  line_uid: "11"
+-
+  name: Андроновка
+  line_uid: "14"
+-
+  name: Аникеевка
+  line_uid: "D2"
+-
+  name: Аннино
+  line_uid: "9"
+-
+  name: Арбатская
+  line_uid: "3"
+-
+  name: Арбатская
+  line_uid: "4"
+-
+  name: Аэропорт
+  line_uid: "2"
+-
+  name: Бабушкинская
+  line_uid: "6"
+-
+  name: Багратионовская
+  line_uid: "4"
+-
+  name: Баковка
+  line_uid: "D1"
+-
+  name: Балтийская
+  line_uid: "14"
+-
+  name: Баррикадная
+  line_uid: "7"
+-
+  name: Бауманская
+  line_uid: "3"
+-
+  name: Беговая
+  line_uid: "7"
+-
+  name: Беговая
+  line_uid: "D1"
+-
+  name: Белокаменная
+  line_uid: "14"
+-
+  name: Беломорская
+  line_uid: "2"
+-
+  name: Белорусская
+  line_uid: "2"
+-
+  name: Белорусская
+  line_uid: "5"
+-
+  name: Белорусская
+  line_uid: "D1"
+-
+  name: Беляево
+  line_uid: "6"
+-
+  name: Бескудниково
+  line_uid: "D1"
+-
+  name: Бибирево
+  line_uid: "9"
+-
+  name: Библиотека им. Ленина
+  line_uid: "1"
+-
+  name: Битца
+  line_uid: "D2"
+-
+  name: Битцевский парк
+  line_uid: "12"
+-
+  name: Борисово
+  line_uid: "10"
+-
+  name: Боровицкая
+  line_uid: "9"
+-
+  name: Боровское шоссе
+  line_uid: "8A"
+-
+  name: Ботанический сад
+  line_uid: "6"
+-
+  name: Ботанический сад
+  line_uid: "14"
+-
+  name: Братиславская
+  line_uid: "10"
+-
+  name: Бульвар Дмитрия Донского
+  line_uid: "9"
+-
+  name: Бульвар Рокоссовского
+  line_uid: "1"
+-
+  name: Бульвар Рокоссовского
+  line_uid: "14"
+-
+  name: Бульвар адмирала Ушакова
+  line_uid: "12"
+-
+  name: Бунинская аллея
+  line_uid: "12"
+-
+  name: Бутово
+  line_uid: "D2"
+-
+  name: Бутырская
+  line_uid: "10"
+-
+  name: ВДНХ
+  line_uid: "6"
+-
+  name: Варшавская
+  line_uid: "11"
+-
+  name: Варшавская
+  line_uid: "11A"
+-
+  name: Верхние Котлы
+  line_uid: "14"
+-
+  name: Верхние Лихоборы
+  line_uid: "10"
+-
+  name: Владыкино
+  line_uid: "9"
+-
+  name: Владыкино
+  line_uid: "14"
+-
+  name: Водники
+  line_uid: "D1"
+-
+  name: Водный стадион
+  line_uid: "2"
+-
+  name: Войковская
+  line_uid: "2"
+-
+  name: Волгоградский проспект
+  line_uid: "7"
+-
+  name: Волжская
+  line_uid: "10"
+-
+  name: Волоколамская
+  line_uid: "3"
+-
+  name: Волоколамская
+  line_uid: "D2"
+-
+  name: Воробьёвы горы
+  line_uid: "1"
+-
+  name: Выставочная
+  line_uid: "4"
+-
+  name: Выставочный центр
+  line_uid: "13"
+-
+  name: Выхино
+  line_uid: "7"
+-
+  name: Говорово
+  line_uid: "8A"
+-
+  name: Гражданская
+  line_uid: "D2"
+-
+  name: Давыдково
+  line_uid: "11"
+-
+  name: Дегунино
+  line_uid: "D1"
+-
+  name: Деловой центр
+  line_uid: "14"
+-
+  name: Деловой центр
+  line_uid: "11"
+-
+  name: Депо
+  line_uid: "D2"
+-
+  name: Динамо
+  line_uid: "2"
+-
+  name: Дмитровская
+  line_uid: "9"
+-
+  name: Дмитровская
+  line_uid: "D1"
+-
+  name: Дмитровская
+  line_uid: "D2"
+-
+  name: Добрынинская
+  line_uid: "5"
+-
+  name: Долгопрудная
+  line_uid: "D1"
+-
+  name: Домодедовская
+  line_uid: "2"
+-
+  name: Достоевская
+  line_uid: "10"
+-
+  name: Дубровка
+  line_uid: "10"
+-
+  name: Дубровка
+  line_uid: "14"
+-
+  name: Жулебино
+  line_uid: "7"
+-
+  name: ЗИЛ
+  line_uid: "14"
+-
+  name: Зорге
+  line_uid: "14"
+-
+  name: Зюзино
+  line_uid: "11"
+-
+  name: Зябликово
+  line_uid: "10"
+-
+  name: Измайлово
+  line_uid: "14"
+-
+  name: Измайловская
+  line_uid: "3"
+-
+  name: Илимская
+  line_uid: "D1"
+-
+  name: Каланчёвская
+  line_uid: "D2"
+-
+  name: Калитники
+  line_uid: "D2"
+-
+  name: Калужская
+  line_uid: "6"
+-
+  name: Калужская
+  line_uid: "11"
+-
+  name: Кантемировская
+  line_uid: "2"
+-
+  name: Карамышево
+  line_uid: "11"
+-
+  name: Каховская
+  line_uid: "11"
+-
+  name: Каширская
+  line_uid: "2"
+-
+  name: Каширская
+  line_uid: "11A"
+-
+  name: Киевская
+  line_uid: "3"
+-
+  name: Киевская
+  line_uid: "4"
+-
+  name: Киевская
+  line_uid: "5"
+-
+  name: Китай-город
+  line_uid: "6"
+-
+  name: Китай-город
+  line_uid: "7"
+-
+  name: Кленовый бульвар
+  line_uid: "11"
+-
+  name: Кожуховская
+  line_uid: "10"
+-
+  name: Коломенская
+  line_uid: "2"
+-
+  name: Коммунарка
+  line_uid: "1"
+-
+  name: Комсомольская
+  line_uid: "1"
+-
+  name: Комсомольская
+  line_uid: "5"
+-
+  name: Коньково
+  line_uid: "6"
+-
+  name: Коптево
+  line_uid: "14"
+-
+  name: Косино
+  line_uid: "15"
+-
+  name: Котельники
+  line_uid: "7"
+-
+  name: Котляково
+  line_uid: "D2"
+-
+  name: Красногвардейская
+  line_uid: "2"
+-
+  name: Красногорская
+  line_uid: "D2"
+-
+  name: Краснопресненская
+  line_uid: "5"
+-
+  name: Красносельская
+  line_uid: "1"
+-
+  name: Красные ворота
+  line_uid: "1"
+-
+  name: Красный балтиец
+  line_uid: "D2"
+-
+  name: Красный строитель
+  line_uid: "D2"
+-
+  name: Крестьянская застава
+  line_uid: "10"
+-
+  name: Кропоткинская
+  line_uid: "1"
+-
+  name: Крылатское
+  line_uid: "3"
+-
+  name: Крымская
+  line_uid: "14"
+-
+  name: Кубанская
+  line_uid: "D2"
+-
+  name: Кузнецкий мост
+  line_uid: "7"
+-
+  name: Кузьминки
+  line_uid: "7"
+-
+  name: Кунцевская
+  line_uid: "3"
+-
+  name: Кунцевская
+  line_uid: "4"
+-
+  name: Кунцевская
+  line_uid: "11"
+-
+  name: Кунцевская
+  line_uid: "D1"
+-
+  name: Курская
+  line_uid: "3"
+-
+  name: Курская
+  line_uid: "5"
+-
+  name: Курская
+  line_uid: "D2"
+-
+  name: Курьяново
+  line_uid: "D2"
+-
+  name: Кутузовская
+  line_uid: "4"
+-
+  name: Кутузовская
+  line_uid: "14"
+-
+  name: Ленинский проспект
+  line_uid: "6"
+-
+  name: Лермонтовский проспект
+  line_uid: "7"
+-
+  name: Лесопарковая
+  line_uid: "12"
+-
+  name: Лефортово
+  line_uid: "11"
+-
+  name: Лефортово
+  line_uid: "15"
+-
+  name: Лианозово
+  line_uid: "D1"
+-
+  name: Лихоборы
+  line_uid: "14"
+-
+  name: Лобня
+  line_uid: "D1"
+-
+  name: Локомотив
+  line_uid: "14"
+-
+  name: Ломоносовский проспект
+  line_uid: "8A"
+-
+  name: Лубянка
+  line_uid: "1"
+-
+  name: Лужники
+  line_uid: "14"
+-
+  name: Лухмановская
+  line_uid: "15"
+-
+  name: Люблино
+  line_uid: "10"
+-
+  name: Марк
+  line_uid: "D1"
+-
+  name: Марксистская
+  line_uid: "8"
+-
+  name: Марьина Роща
+  line_uid: "11"
+-
+  name: Марьина Роща
+  line_uid: "D2"
+-
+  name: Марьина роща
+  line_uid: "10"
+-
+  name: Марьино
+  line_uid: "10"
+-
+  name: Маяковская
+  line_uid: "2"
+-
+  name: Медведково
+  line_uid: "6"
+-
+  name: Международная
+  line_uid: "4"
+-
+  name: Менделеевская
+  line_uid: "9"
+-
+  name: Минская
+  line_uid: "8A"
+-
+  name: Митино
+  line_uid: "3"
+-
+  name: Мичуринский проспект
+  line_uid: "8A"
+-
+  name: Мичуринский проспект
+  line_uid: "11"
+-
+  name: Мнёвники
+  line_uid: "11"
+-
+  name: Молодёжная
+  line_uid: "3"
+-
+  name: Москва Товарная
+  line_uid: "D2"
+-
+  name: Москворечье
+  line_uid: "D2"
+-
+  name: Мякинино
+  line_uid: "3"
+-
+  name: Нагатинская
+  line_uid: "9"
+-
+  name: Нагатинский затон
+  line_uid: "11"
+-
+  name: Нагорная
+  line_uid: "9"
+-
+  name: Нахабино
+  line_uid: "D2"
+-
+  name: Нахимовский проспект
+  line_uid: "9"
+-
+  name: Некрасовка
+  line_uid: "15"
+-
+  name: Немчиновка
+  line_uid: "D1"
+-
+  name: Нижегородская
+  line_uid: "11"
+-
+  name: Нижегородская
+  line_uid: "14"
+-
+  name: Нижегородская
+  line_uid: "15"
+-
+  name: Новогиреево
+  line_uid: "8"
+-
+  name: Новодачная
+  line_uid: "D1"
+-
+  name: Новокосино
+  line_uid: "8"
+-
+  name: Новокузнецкая
+  line_uid: "2"
+-
+  name: Новопеределкино
+  line_uid: "8A"
+-
+  name: Новослободская
+  line_uid: "5"
+-
+  name: Новохохловская
+  line_uid: "14"
+-
+  name: Новохохловская
+  line_uid: "D2"
+-
+  name: Новоясеневская
+  line_uid: "6"
+-
+  name: Новые Черёмушки
+  line_uid: "6"
+-
+  name: Одинцово
+  line_uid: "D1"
+-
+  name: Озёрная
+  line_uid: "8A"
+-
+  name: Окружная
+  line_uid: "10"
+-
+  name: Окружная
+  line_uid: "14"
+-
+  name: Окружная
+  line_uid: "D1"
+-
+  name: Окская
+  line_uid: "15"
+-
+  name: Октябрьская
+  line_uid: "5"
+-
+  name: Октябрьская
+  line_uid: "6"
+-
+  name: Октябрьское поле
+  line_uid: "7"
+-
+  name: Ольховая
+  line_uid: "1"
+-
+  name: Опалиха
+  line_uid: "D2"
+-
+  name: Орехово
+  line_uid: "2"
+-
+  name: Остафьево
+  line_uid: "D2"
+-
+  name: Отрадное
+  line_uid: "9"
+-
+  name: Охотный Ряд
+  line_uid: "1"
+-
+  name: Павелецкая
+  line_uid: "2"
+-
+  name: Павелецкая
+  line_uid: "5"
+-
+  name: Павшино
+  line_uid: "D2"
+-
+  name: Панфиловская
+  line_uid: "14"
+-
+  name: Парк Победы
+  line_uid: "3"
+-
+  name: Парк Победы
+  line_uid: "8A"
+-
+  name: Парк культуры
+  line_uid: "1"
+-
+  name: Парк культуры
+  line_uid: "5"
+-
+  name: Партизанская
+  line_uid: "3"
+-
+  name: Пенягино
+  line_uid: "D2"
+-
+  name: Первомайская
+  line_uid: "3"
+-
+  name: Перерва
+  line_uid: "D2"
+-
+  name: Перово
+  line_uid: "8"
+-
+  name: Петровский парк
+  line_uid: "8A"
+-
+  name: Петровский парк
+  line_uid: "11"
+-
+  name: Петровско-Разумовская
+  line_uid: "9"
+-
+  name: Петровско-Разумовская
+  line_uid: "10"
+-
+  name: Петровско-Разумовская
+  line_uid: "D1"
+-
+  name: Печатники
+  line_uid: "10"
+-
+  name: Печатники
+  line_uid: "11"
+-
+  name: Печатники
+  line_uid: "D2"
+-
+  name: Пионерская
+  line_uid: "4"
+-
+  name: Планерная
+  line_uid: "7"
+-
+  name: Площадь Гагарина
+  line_uid: "14"
+-
+  name: Площадь Ильича
+  line_uid: "8"
+-
+  name: Площадь Революции
+  line_uid: "3"
+-
+  name: Подольск
+  line_uid: "D2"
+-
+  name: Покровское
+  line_uid: "D2"
+-
+  name: Покровское-Стрешнево
+  line_uid: "D2"
+-
+  name: Полежаевская
+  line_uid: "7"
+-
+  name: Полянка
+  line_uid: "9"
+-
+  name: Пражская
+  line_uid: "9"
+-
+  name: Преображенская площадь
+  line_uid: "1"
+-
+  name: Прокшино
+  line_uid: "1"
+-
+  name: Пролетарская
+  line_uid: "7"
+-
+  name: Проспект Вернадского
+  line_uid: "1"
+-
+  name: Проспект Вернадского
+  line_uid: "11"
+-
+  name: Проспект Мира
+  line_uid: "5"
+-
+  name: Проспект Мира
+  line_uid: "6"
+-
+  name: Профсоюзная
+  line_uid: "6"
+-
+  name: Пушкинская
+  line_uid: "7"
+-
+  name: Пятницкое шоссе
+  line_uid: "3"
+-
+  name: Рабочий поселок
+  line_uid: "D1"
+-
+  name: Раменки
+  line_uid: "8A"
+-
+  name: Рассказовка
+  line_uid: "8A"
+-
+  name: Речной вокзал
+  line_uid: "2"
+-
+  name: Рижская
+  line_uid: "6"
+-
+  name: Рижская
+  line_uid: "11"
+-
+  name: Рижская
+  line_uid: "D2"
+-
+  name: Римская
+  line_uid: "10"
+-
+  name: Ростокино
+  line_uid: "14"
+-
+  name: Румянцево
+  line_uid: "1"
+-
+  name: Рязанский проспект
+  line_uid: "7"
+-
+  name: Савёловская
+  line_uid: "8A"
+-
+  name: Савёловская
+  line_uid: "9"
+-
+  name: Савёловская
+  line_uid: "11"
+-
+  name: Савёловская
+  line_uid: "D1"
+-
+  name: Саларьево
+  line_uid: "1"
+-
+  name: Свиблово
+  line_uid: "6"
+-
+  name: Севастопольская
+  line_uid: "9"
+-
+  name: Селигерская
+  line_uid: "10"
+-
+  name: Семёновская
+  line_uid: "3"
+-
+  name: Серпуховская
+  line_uid: "9"
+-
+  name: Сетунь
+  line_uid: "D1"
+-
+  name: Силикатная
+  line_uid: "D2"
+-
+  name: Сколково
+  line_uid: "D1"
+-
+  name: Славянский бульвар
+  line_uid: "3"
+-
+  name: Славянский бульвар
+  line_uid: "D1"
+-
+  name: Смоленская
+  line_uid: "3"
+-
+  name: Смоленская
+  line_uid: "4"
+-
+  name: Сокол
+  line_uid: "2"
+-
+  name: Соколиная Гора
+  line_uid: "14"
+-
+  name: Сокольники
+  line_uid: "1"
+-
+  name: Сокольники
+  line_uid: "11"
+-
+  name: Солнцево
+  line_uid: "8A"
+-
+  name: Спартак
+  line_uid: "7"
+-
+  name: Спортивная
+  line_uid: "1"
+-
+  name: Сретенский бульвар
+  line_uid: "10"
+-
+  name: Стахановская
+  line_uid: "15"
+-
+  name: Стрешнево
+  line_uid: "14"
+-
+  name: Стрешнево
+  line_uid: "D2"
+-
+  name: Строгино
+  line_uid: "3"
+-
+  name: Студенческая
+  line_uid: "4"
+-
+  name: Сухаревская
+  line_uid: "6"
+-
+  name: Сходненская
+  line_uid: "7"
+-
+  name: Таганская
+  line_uid: "5"
+-
+  name: Таганская
+  line_uid: "7"
+-
+  name: Тверская
+  line_uid: "2"
+-
+  name: Театральная
+  line_uid: "2"
+-
+  name: Текстильщики
+  line_uid: "7"
+-
+  name: Текстильщики
+  line_uid: "11"
+-
+  name: Текстильщики
+  line_uid: "D2"
+-
+  name: Телецентр
+  line_uid: "13"
+-
+  name: Терехово
+  line_uid: "11"
+-
+  name: Тестовская
+  line_uid: "D1"
+-
+  name: Технопарк
+  line_uid: "2"
+-
+  name: Тимирязевская
+  line_uid: "9"
+-
+  name: Тимирязевская
+  line_uid: "13"
+-
+  name: Тимирязевская
+  line_uid: "D1"
+-
+  name: Третьяковская
+  line_uid: "6"
+-
+  name: Третьяковская
+  line_uid: "8"
+-
+  name: Трикотажная
+  line_uid: "D2"
+-
+  name: Тропарёво
+  line_uid: "1"
+-
+  name: Трубная
+  line_uid: "10"
+-
+  name: Тульская
+  line_uid: "9"
+-
+  name: Тургеневская
+  line_uid: "6"
+-
+  name: Тушинская
+  line_uid: "7"
+-
+  name: Тушинская
+  line_uid: "D2"
+-
+  name: Тёплый стан
+  line_uid: "6"
+-
+  name: Угрешская
+  line_uid: "14"
+-
+  name: Ул. Академика Королева
+  line_uid: "13"
+-
+  name: Ул. Милашенкова
+  line_uid: "13"
+-
+  name: Ул. Сергея Эйзенштейна
+  line_uid: "13"
+-
+  name: Улица 1905 года
+  line_uid: "7"
+-
+  name: Улица Горчакова
+  line_uid: "12"
+-
+  name: Улица Дмитриевского
+  line_uid: "15"
+-
+  name: Улица Новаторов
+  line_uid: "11"
+-
+  name: Улица Скобелевская
+  line_uid: "12"
+-
+  name: Улица Старокачаловская
+  line_uid: "12"
+-
+  name: Улица академика Янгеля
+  line_uid: "9"
+-
+  name: Университет
+  line_uid: "1"
+-
+  name: Филатов Луг
+  line_uid: "1"
+-
+  name: Филевский парк
+  line_uid: "4"
+-
+  name: Фили
+  line_uid: "4"
+-
+  name: Фили
+  line_uid: "D1"
+-
+  name: Фонвизинская
+  line_uid: "10"
+-
+  name: Фрунзенская
+  line_uid: "1"
+-
+  name: Хлебниково
+  line_uid: "D1"
+-
+  name: Ховрино
+  line_uid: "2"
+-
+  name: Хорошево
+  line_uid: "14"
+-
+  name: Хорошёвская
+  line_uid: "8A"
+-
+  name: Хорошёвская
+  line_uid: "11"
+-
+  name: ЦСКА
+  line_uid: "8A"
+-
+  name: ЦСКА
+  line_uid: "11"
+-
+  name: Царицыно
+  line_uid: "2"
+-
+  name: Царицыно
+  line_uid: "D2"
+-
+  name: Цветной бульвар
+  line_uid: "9"
+-
+  name: Черкизовская
+  line_uid: "1"
+-
+  name: Чертановская
+  line_uid: "9"
+-
+  name: Чеховская
+  line_uid: "9"
+-
+  name: Чистые пруды
+  line_uid: "1"
+-
+  name: Чкаловская
+  line_uid: "10"
+-
+  name: Шаболовская
+  line_uid: "6"
+-
+  name: Шелепиха
+  line_uid: "8A"
+-
+  name: Шелепиха
+  line_uid: "11"
+-
+  name: Шелепиха
+  line_uid: "14"
+-
+  name: Шереметьевская
+  line_uid: "D1"
+-
+  name: Шипиловская
+  line_uid: "10"
+-
+  name: Шоссе Энтузиастов
+  line_uid: "8"
+-
+  name: Шоссе Энтузиастов
+  line_uid: "14"
+-
+  name: Щербинка
+  line_uid: "D2"
+-
+  name: Щукинская
+  line_uid: "7"
+-
+  name: Щёлковская
+  line_uid: "3"
+-
+  name: Электрозаводская
+  line_uid: "3"
+-
+  name: Электрозаводская
+  line_uid: "11"
+-
+  name: Юго-Восточная
+  line_uid: "15"
+-
+  name: Юго-Западная
+  line_uid: "1"
+-
+  name: Южная
+  line_uid: "9"
+-
+  name: Ясенево
+  line_uid: "6"
