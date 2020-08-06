@@ -55,6 +55,22 @@
   uid: "12"
   color: "#c8bcd2"
 -
+  name: Монорельс
+  uid: "13"
+  color: "#0A72B9"
+-
+  name: МЦК
+  uid: "14"
+  color: "#ffcec6"
+-
   name: Некрасовская
   uid: "15"
   color: "#e363b3"
+-
+  name: Белорусско-Савёловский диаметр
+  uid: "D1"
+  color: "#ed9f2d"
+-
+  name: Калужско-Рижский диаметр
+  uid: "D2"
+  color: "#df477c"
