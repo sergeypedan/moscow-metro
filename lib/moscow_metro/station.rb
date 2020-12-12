@@ -1,24 +1,28 @@
 # frozen_string_literal: true
 
 module MoscowMetro
-  class Station < RecordFromYaml
+	class Station < RecordFromYaml
 
-    COLUMNS = [:coordinates, :name, :name_en, :name_uniq, :line_uid]
-    RECORDS = YAML.load_file(DB_DIR.join("stations.yml"))
+		COLUMNS = [:coordinates, :latitude, :longitude, :name, :name_en, :name_uniq, :line_uid]
+		RECORDS = YAML.load_file(DB_DIR.join("stations.yml"))
 
-    Record = Struct.new(*COLUMNS) do
-      def line
-        MoscowMetro::Line.find_by_uid(line_uid)
-      end
-    end
+		Record = Struct.new(*COLUMNS) do
+			def coordinates
+				(latitude && longitude) ? [latitude, longitude] : []
+			end
 
-    def self.all
-      RECORDS.map { |record_data| Record.new(*hash_values(COLUMNS, record_data)) }
-    end
+			def line
+				MoscowMetro::Line.find_by_uid(line_uid)
+			end
+		end
 
-    def self.names
-      all.map(&:name).uniq
-    end
+		def self.all
+			RECORDS.map { |record_data| Record.new(*hash_values(COLUMNS, record_data)) }
+		end
 
-  end
+		def self.names
+			all.map(&:name).uniq
+		end
+
+	end
 end

@@ -66,6 +66,17 @@ line.name  #=> "Сокольническая"
 line.uid   #=> "1"
 ```
 
+```ruby
+station = MoscowMetro::Station.all.first #=> #<struct MoscowMetro::Station::Record coordinates="37.7191,55.7524", name="Авиамоторная", name_en="Aviamotornaya", name_uniq=false, line_uid="8">
+station.coordinates #=> [37.7191, 55.7524] || []
+station.latitude    #=> 37.7191 || nil
+station.longitude   #=> 55.7524 || nil
+station.line_uid    #=> "8"
+station.name        #=> "Авиамоторная"
+station.name_en     #=> "Aviamotornaya" || nil
+station.name_uniq   #=> false || true
+```
+
 ## Источники данных
 
 - https://transport.mos.ru

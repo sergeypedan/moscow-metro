@@ -20,6 +20,14 @@ RSpec.describe MoscowMetro::Station do
 		expect(subject.select { |station| [nil, ""].include? station.line_uid }).to eq []
 	end
 
+  it "All stations have :latitude either Float or nil" do
+    expect(subject.reject { |station| [NilClass, Float].include? station.latitude.class }).to eq []
+  end
+
+  it "All stations have :longitude either Float or nil" do
+    expect(subject.reject { |station| [NilClass, Float].include? station.longitude.class }).to eq []
+  end
+
 	describe "`name_uniq` correcness" do
 		let(:tally_results) { subject.map(&:name).tally }
 
