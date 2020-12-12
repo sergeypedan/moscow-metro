@@ -43,7 +43,6 @@ gem "moscow_metro"
 
 1. Использовать gem в качестве базы данных, не создавая таблиц в своей БД. Если gem отстанет от жизни, можно форкнуть или прислать PR.
 1. Хранить станции и линии в БД, а gem использовать для валидаций.
-1. Хранить станции и линии в БД. Gem поможет создать классы и миграции + автоматически заполнить таблицы, запустив Rake task.
 
 
 ### 1. Использовать gem в качестве базы данных
@@ -53,21 +52,21 @@ gem "moscow_metro"
 ```ruby
 MoscowMetro::Station.all #=> Array
 MoscowMetro::Line.all    #=> Array
-MoscowMetro::Line.find_by_uid("11A") #=> <MoscowMetro::Line>
+MoscowMetro::Line.find_by_uid("11A") #=> #<struct MoscowMetro::Line::Record...>
 MoscowMetro::Line.find_by_uid("404") #=> nil
 ```
 
 и attribute-readers у экземпляров:
 
 ```ruby
-line = MoscowMetro::Line.all.first #=> #<struct MoscowMetro::Line::Record name="Сокольническая", color="#f91f22", uid="1">
+line = MoscowMetro::Line.all.first #=> #<struct MoscowMetro::Line::Record...>
 line.color #=> "#f91f22"
 line.name  #=> "Сокольническая"
 line.uid   #=> "1"
 ```
 
 ```ruby
-station = MoscowMetro::Station.all.first #=> #<struct MoscowMetro::Station::Record coordinates="37.7191,55.7524", name="Авиамоторная", name_en="Aviamotornaya", name_uniq=false, line_uid="8">
+station = MoscowMetro::Station.all.first #=> #<struct MoscowMetro::Station::Record...>
 station.coordinates #=> [37.7191, 55.7524] || []
 station.latitude    #=> 37.7191 || nil
 station.longitude   #=> 55.7524 || nil
@@ -76,6 +75,18 @@ station.name        #=> "Авиамоторная"
 station.name_en     #=> "Aviamotornaya" || nil
 station.name_uniq   #=> false || true
 ```
+
+### 2. Использовать gem для валидаций
+
+Например, так:
+
+```ruby
+# models/metro/station.rb
+class Metro::Station < ActiveRecord::Base
+  validates :name, inclusion: { in: MoscowMetro::Station.names }
+end
+```
+
 
 ## Источники данных
 
@@ -98,10 +109,10 @@ divs.length // 672
 function station_object_from_div(div) {
   let ids = div.dataset.id.replace("line", "").split("_")
   return {
-  	color:    div.dataset.color,
-  	line_uid: ids[0],
-  	name:     div.innerText,
-  	uid:      ids[1]
+    color:    div.dataset.color,
+    line_uid: ids[0],
+    name:     div.innerText,
+    uid:      ids[1]
   }
 }
 
