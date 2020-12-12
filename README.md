@@ -72,6 +72,8 @@ line.uid   #=> "1"
 - https://transport.mos.ru/metro/map
 - http://mcd.mosmetro.ru/map/desktop/
 - https://www.mos.ru/city/projects/diametry/
+- https://en.wikipedia.org/wiki/Moscow_Metro
+- https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations
 
 ### Получаем инфомацию из раскрывающегося списка метро
 

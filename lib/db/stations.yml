@@ -1,687 +1,984 @@
 -
   name: Авиамоторная
+  name_en: Aviamotornaya
   name_uniq: false
   line_uid: "8"
+  coordinates: 37.7191,55.7524
 -
   name: Авиамоторная
+  name_en: Aviamotornaya
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.718611,55.753055
 -
   name: Авиамоторная
+  name_en: Aviamotornaya
   name_uniq: false
   line_uid: "15"
 -
   name: Автозаводская
+  name_en: Avtozavodskaya
   name_uniq: false
   line_uid: "2"
+  coordinates: 37.6576,55.7074
 -
   name: Автозаводская
+  name_en: Avtozavodskaya
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.6636,55.7066
 -
   name: Академическая
+  name_en: Akademicheskaya
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.5733,55.6877
 -
   name: Александровский сад
+  name_en: Aleksandrovsky Sad
   name_uniq: true
   line_uid: "4"
+  coordinates: 37.6085,55.7525
 -
   name: Алексеевская
+  name_en: Alekseyevskaya
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.639,55.8088
 -
   name: Алма-Атинская
+  name_en: Alma-Atinskaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.766,55.6326
 -
   name: Алтуфьево
+  name_en: Altufyevo
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.587,55.898
 -
-  name: Аминьевская
+  name: Аминьевское шоссе
+  name_en: Aminyevskoe Shosse
   name_uniq: true
   line_uid: "11"
 -
   name: Андроновка
+  name_en: Andronovka
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.738,55.7473
 -
   name: Аникеевка
+  name_en: Anikeevka
   name_uniq: true
   line_uid: "D2"
 -
   name: Аннино
+  name_en: Annino
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.5966,55.5828
 -
   name: Арбатская
+  name_en: Arbatskaya
   name_uniq: false
   line_uid: "3"
+  coordinates: 37.6061,55.7522
 -
   name: Арбатская
+  name_en: Arbatskaya
   name_uniq: false
   line_uid: "4"
+  coordinates: 37.6007,55.7518
 -
   name: Аэропорт
+  name_en: Aeroport
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.5329,55.8003
 -
   name: Бабушкинская
+  name_en: Babushkinskaya
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.6644,55.8694
 -
   name: Багратионовская
+  name_en: Bagrationovskaya
   name_uniq: true
   line_uid: "4"
+  coordinates: 37.4977,55.7438
 -
   name: Баковка
+  name_en: Bakovka
   name_uniq: true
   line_uid: "D1"
 -
   name: Балтийская
+  name_en: Baltiyskaya
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.4965,55.8259
 -
   name: Баррикадная
+  name_en: Barrikadnaya
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.5795,55.7612
 -
   name: Бауманская
+  name_en: Baumanskaya
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.6806,55.773
 -
   name: Беговая
+  name_en: Begovaya
   name_uniq: false
   line_uid: "7"
+  coordinates: 37.5468,55.7738
 -
   name: Беговая
+  name_en: Begovaya
   name_uniq: false
   line_uid: "D1"
 -
   name: Белокаменная
+  name_en: Belokamennaya
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.7018,55.8298
 -
   name: Беломорская
+  name_en: Belomorskaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.476388,55.865833
 -
   name: Белорусская
+  name_en: Belorusskaya
   name_uniq: false
   line_uid: "2"
+  coordinates: 37.5835,55.7767
 -
   name: Белорусская
+  name_en: Belorusskaya
   name_uniq: false
   line_uid: "5"
+  coordinates: 37.5844,55.7764
 -
   name: Белорусская
+  name_en: Belorusskaya
   name_uniq: false
   line_uid: "D1"
 -
   name: Беляево
+  name_en: Belyayevo
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.5257,55.6428
 -
   name: Бескудниково
+  name_en: Beskudnikovo
   name_uniq: true
   line_uid: "D1"
 -
   name: Бибирево
+  name_en: Bibirevo
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6034,55.8838
 -
   name: Библиотека им. Ленина
+  name_en: Biblioteka Imeni Lenina
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.61,55.7512
 -
   name: Битца
+  name_en: Bitza
   name_uniq: true
   line_uid: "D2"
 -
   name: Битцевский парк
+  name_en: Bittsevsky Park
   name_uniq: true
   line_uid: "12"
+  coordinates: 37.5562,55.6004
 -
   name: Борисово
+  name_en: Borisovo
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.7436,55.6334
 -
   name: Боровицкая
+  name_en: Borovitskaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6072,55.7511
 -
   name: Боровское шоссе
+  name_en: Borovskoye Shosse
   name_uniq: true
   line_uid: "8A"
+  coordinates: 37.370186,55.647672
 -
   name: Ботанический сад
+  name_en: Botanichesky Sad
   name_uniq: false
   line_uid: "6"
+  coordinates: 37.6383,55.8449
 -
   name: Ботанический сад
+  name_en: Botanichesky Sad
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.6383,55.8456
 -
   name: Братиславская
+  name_en: Bratislavskaya
   name_uniq: true
   line_uid: "10"
--
-  name: Бульвар Дмитрия Донского
-  name_uniq: true
-  line_uid: "9"
--
-  name: Бульвар Рокоссовского
-  name_uniq: false
-  line_uid: "1"
--
-  name: Бульвар Рокоссовского
-  name_uniq: false
-  line_uid: "14"
+  coordinates: 37.7505,55.6597
 -
   name: Бульвар адмирала Ушакова
+  name_en: Bulvar Admirala Ushakova
   name_uniq: true
   line_uid: "12"
+  coordinates: 37.543,55.5455
+-
+  name: Бульвар Дмитрия Донского
+  name_en: Bulvar Dmitriya Donskogo
+  name_uniq: true
+  line_uid: "9"
+  coordinates: 37.5769,55.5693
+-
+  name: Бульвар Рокоссовского
+  name_en: Bulvar Rokossovskogo
+  name_uniq: false
+  line_uid: "1"
+  coordinates: 37.7342,55.8148
+-
+  name: Бульвар Рокоссовского
+  name_en: Bulvar Rokossovskogo
+  name_uniq: false
+  line_uid: "14"
+  coordinates: 37.7373,55.8172
 -
   name: Бунинская аллея
+  name_en: Buninskaya Alleya
   name_uniq: true
   line_uid: "12"
+  coordinates: 37.5158,55.538
 -
   name: Бутово
+  name_en: Butovo
   name_uniq: true
   line_uid: "D2"
 -
   name: Бутырская
+  name_en: Butyrskaya
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.602328,55.813577
 -
   name: ВДНХ
+  name_en: VDNKh
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.6411,55.8211
 -
   name: Варшавская
+  name_en: Varshavskaya
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.6194,55.6533
 -
   name: Варшавская
+  name_en: Varshavskaya
   name_uniq: false
   line_uid: "11A"
 -
   name: Верхние Котлы
+  name_en: Verkhniye Kotly
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.6193,55.6902
 -
   name: Верхние Лихоборы
+  name_en: Verkhniye Likhobory
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.561111,55.855833
 -
   name: Владыкино
+  name_en: Vladykino
   name_uniq: false
   line_uid: "9"
+  coordinates: 37.5899,55.8473
 -
   name: Владыкино
+  name_en: Vladykino
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.5926,55.8474
 -
   name: Водники
+  name_en: Vodniki
   name_uniq: true
   line_uid: "D1"
 -
   name: Водный стадион
+  name_en: Vodny Stadion
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.4867,55.8398
 -
   name: Войковская
+  name_en: Voykovskaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.498,55.819
 -
   name: Волгоградский проспект
+  name_en: Volgogradsky Prospekt
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.6869,55.7253
 -
   name: Волжская
+  name_en: Volzhskaya
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.753,55.6909
 -
   name: Волоколамская
+  name_en: Volokolamskaya
   name_uniq: false
   line_uid: "3"
+  coordinates: 37.3822,55.8354
 -
   name: Волоколамская
+  name_en: Volokolamskaya
   name_uniq: false
   line_uid: "D2"
 -
   name: Воробьёвы горы
+  name_en: Vorobyovy Gory
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.5592,55.7103
 -
   name: Выставочная
+  name_en: Vystavochnaya
   name_uniq: true
   line_uid: "4"
+  coordinates: 37.5408,55.7502
 -
   name: Выставочный центр
+  name_en: Vystavochny Tsentr
   name_uniq: true
   line_uid: "13"
+  coordinates: 37.6383,55.824
 -
   name: Выхино
+  name_en: Vykhino
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.8181,55.7156
 -
   name: Говорово
+  name_en: Govorovo
   name_uniq: true
   line_uid: "8A"
+  coordinates: 37.417392,55.659531
 -
   name: Гражданская
+  name_en: grazhdanskaya
   name_uniq: true
   line_uid: "D2"
 -
   name: Давыдково
+  name_en: Davydkovo
   name_uniq: true
   line_uid: "11"
 -
   name: Дегунино
+  name_en: Degunino
   name_uniq: true
   line_uid: "D1"
 -
   name: Деловой центр
-  name_uniq: false
-  line_uid: "14"
--
-  name: Деловой центр
+  name_en: Delovoy Tsentr
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.5391,55.7489
+-
+  name: Деловой центр
+  name_en: Delovoy Tsentr
+  name_uniq: false
+  line_uid: "14"
+  coordinates: 37.532,55.7476
 -
   name: Депо
+  name_en: Depo
   name_uniq: true
   line_uid: "D2"
 -
   name: Динамо
+  name_en: Dinamo
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.558,55.7897
 -
   name: Дмитровская
+  name_en: Dmitrovskaya
   name_uniq: false
   line_uid: "9"
+  coordinates: 37.5817,55.8069
 -
   name: Дмитровская
+  name_en: Dmitrovskaya
   name_uniq: false
   line_uid: "D1"
 -
   name: Дмитровская
+  name_en: Dmitrovskaya
   name_uniq: false
   line_uid: "D2"
 -
   name: Добрынинская
+  name_en: Dobryninskaya
   name_uniq: true
   line_uid: "5"
+  coordinates: 37.6243,55.7291
 -
   name: Долгопрудная
+  name_en: Dolgoprudnaya
   name_uniq: true
   line_uid: "D1"
 -
   name: Домодедовская
+  name_en: Domodedovskaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.7186,55.6108
 -
   name: Достоевская
+  name_en: Dostoyevskaya
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.6151,55.7816
 -
   name: Дубровка
+  name_en: Dubrovka
   name_uniq: false
   line_uid: "10"
+  coordinates: 37.676,55.7186
 -
   name: Дубровка
+  name_en: Dubrovka
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.6781,55.7127
 -
   name: Жулебино
+  name_en: Zhulebino
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.8563,55.6855
 -
   name: ЗИЛ
+  name_en: ZIL
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.6483,55.6983
 -
   name: Зорге
+  name_en: Zorge
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.5045,55.7878
 -
   name: Зюзино
+  name_en: Ziuzino
   name_uniq: true
   line_uid: "11"
 -
   name: Зябликово
+  name_en: Zyablikovo
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.7453,55.6124
 -
   name: Измайлово
+  name_en: Izmaylovo
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.7434,55.7896
 -
   name: Измайловская
+  name_en: Izmaylovskaya
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.7814,55.7878
 -
   name: Илимская
+  name_en: Ilimskaya
   name_uniq: true
   line_uid: "D1"
 -
   name: Каланчёвская
+  name_en: Kalanchevskaya
   name_uniq: true
   line_uid: "D2"
 -
   name: Калитники
+  name_en: Kalitniki
   name_uniq: true
   line_uid: "D2"
 -
   name: Калужская
+  name_en: Kaluzhskaya
   name_uniq: false
   line_uid: "6"
+  coordinates: 37.5455,55.6584
 -
   name: Калужская
+  name_en: Kaluzhskaya
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.5405,55.6571
 -
   name: Кантемировская
+  name_en: Kantemirovskaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.6564,55.6358
 -
   name: Карамышево
+  name_en: Karamyshevo
   name_uniq: true
   line_uid: "11"
 -
   name: Каховская
+  name_en: Kakhovskaya
   name_uniq: true
   line_uid: "11"
+  coordinates: 37.5983,55.653
 -
   name: Каширская
+  name_en: Kashirskaya
   name_uniq: false
   line_uid: "2"
+  coordinates: 37.6487,55.6551
 -
   name: Каширская
+  name_en: Kashirskaya
   name_uniq: false
   line_uid: "11A"
 -
   name: Киевская
+  name_en: Kiyevskaya
   name_uniq: false
   line_uid: "3"
+  coordinates: 37.5645,55.7442
 -
   name: Киевская
+  name_en: Kiyevskaya
   name_uniq: false
   line_uid: "4"
+  coordinates: 37.5655,55.7436
 -
   name: Киевская
+  name_en: Kiyevskaya
   name_uniq: false
   line_uid: "5"
+  coordinates: 37.5644,55.7446
 -
   name: Китай-город
+  name_en: Kitay-gorod
   name_uniq: false
   line_uid: "6"
+  coordinates: 37.6333,55.7553
 -
   name: Китай-город
+  name_en: Kitay-gorod
   name_uniq: false
   line_uid: "7"
 -
   name: Кленовый бульвар
+  name_en: Klenoviy Bulvar
   name_uniq: true
   line_uid: "11"
 -
   name: Кожуховская
+  name_en: Kozhukhovskaya
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.6851,55.7074
 -
   name: Коломенская
+  name_en: Kolomenskaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.6638,55.6785
 -
   name: Коммунарка
+  name_en: Kommunarka
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.4696,55.5605
 -
   name: Комсомольская
+  name_en: Komsomolskaya
   name_uniq: false
   line_uid: "1"
+  coordinates: 37.6562,55.7753
 -
   name: Комсомольская
+  name_en: Komsomolskaya
   name_uniq: false
   line_uid: "5"
+  coordinates: 37.6549,55.7748
 -
   name: Коньково
+  name_en: Konkovo
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.5188,55.6333
 -
   name: Коптево
+  name_en: Koptevo
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.5203,55.8397
 -
   name: Косино
+  name_en: Kosino
   name_uniq: true
   line_uid: "15"
+  coordinates: 37.847777,55.704166
 -
   name: Котельники
+  name_en: Kotelniki
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.8582,55.6743
 -
   name: Котляково
+  name_en: Kotlayakovo
   name_uniq: true
   line_uid: "D2"
 -
   name: Красногвардейская
+  name_en: Krasnogvardeyskaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.7444,55.6137
 -
   name: Красногорская
+  name_en: Krasnogorskaya
   name_uniq: true
   line_uid: "D2"
 -
   name: Краснопресненская
+  name_en: Krasnopresnenskaya
   name_uniq: true
   line_uid: "5"
+  coordinates: 37.5774,55.7613
 -
   name: Красносельская
+  name_en: Krasnoselskaya
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.6673,55.7801
 -
   name: Красные ворота
+  name_en: Krasnye Vorota
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.6487,55.769
 -
   name: Красный балтиец
+  name_en: Krasniy Baltiets
   name_uniq: true
   line_uid: "D2"
 -
   name: Красный строитель
+  name_en: Krasniy Stroitel
   name_uniq: true
   line_uid: "D2"
 -
   name: Крестьянская застава
+  name_en: Krestyanskaya Zastava
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.6673,55.7331
 -
   name: Кропоткинская
+  name_en: Kropotkinskaya
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.6037,55.7453
 -
   name: Крылатское
+  name_en: Krylatskoye
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.4081,55.7567
 -
   name: Крымская
+  name_en: Krymskaya
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.6042,55.6904
 -
   name: Кубанская
+  name_en: Kubanskaya
   name_uniq: true
   line_uid: "D2"
 -
   name: Кузнецкий мост
+  name_en: Kuznetsky Most
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.6259,55.7606
 -
   name: Кузьминки
+  name_en: Kuzminki
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.7656,55.7056
 -
   name: Кунцевская
+  name_en: Kuntsevskaya
   name_uniq: false
   line_uid: "3"
 -
   name: Кунцевская
+  name_en: Kuntsevskaya
   name_uniq: false
   line_uid: "4"
+  coordinates: 37.4459,55.7307
 -
   name: Кунцевская
+  name_en: Kuntsevskaya
   name_uniq: false
   line_uid: "11"
 -
   name: Кунцевская
+  name_en: Kuntsevskaya
   name_uniq: false
   line_uid: "D1"
 -
   name: Курская
+  name_en: Kurskaya
   name_uniq: false
   line_uid: "3"
+  coordinates: 37.6577,55.7576
 -
   name: Курская
+  name_en: Kurskaya
   name_uniq: false
   line_uid: "5"
+  coordinates: 37.6595,55.757
 -
   name: Курская
+  name_en: Kurskaya
   name_uniq: false
   line_uid: "D2"
 -
   name: Курьяново
+  name_en: Kuryanovo
   name_uniq: true
   line_uid: "D2"
 -
   name: Кутузовская
+  name_en: Kutuzovskaya
   name_uniq: false
   line_uid: "4"
+  coordinates: 37.5344,55.7399
 -
   name: Кутузовская
+  name_en: Kutuzovskaya
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.5344,55.7396
 -
   name: Ленинский проспект
+  name_en: Leninsky Prospekt
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.5861,55.7077
 -
   name: Лермонтовский проспект
+  name_en: Lermontovsky Prospekt
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.8525,55.7013
 -
   name: Лесопарковая
+  name_en: Lesoparkovaya
   name_uniq: true
   line_uid: "12"
+  coordinates: 37.5769,55.5821
 -
   name: Лефортово
+  name_en: Lefortovo
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.702777,55.764444
 -
   name: Лефортово
+  name_en: Lefortovo
   name_uniq: false
   line_uid: "15"
 -
   name: Лианозово
+  name_en: Lianozovo
   name_uniq: true
   line_uid: "D1"
 -
   name: Лихоборы
+  name_en: Likhobory
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.5511,55.8472
 -
   name: Лобня
+  name_en: Lobnya
   name_uniq: true
   line_uid: "D1"
 -
   name: Локомотив
+  name_en: Lokomotiv
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.7459,55.8039
 -
   name: Ломоносовский проспект
+  name_en: Lomonosovsky Prospekt
   name_uniq: true
   line_uid: "8A"
+  coordinates: 37.5156,55.7069
 -
   name: Лубянка
+  name_en: Lubyanka
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.6272,55.7597
 -
   name: Лужники
+  name_en: Luzhniki
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.5605,55.721
 -
   name: Лухмановская
+  name_en: Lukhmanovskaya
   name_uniq: true
   line_uid: "15"
+  coordinates: 37.9004,55.7085
 -
   name: Люблино
+  name_en: Lyublino
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.7618,55.6758
 -
   name: Марк
+  name_en: Mark
   name_uniq: true
   line_uid: "D1"
 -
   name: Марксистская
+  name_en: Marksistskaya
   name_uniq: true
   line_uid: "8"
+  coordinates: 37.6543,55.7411
 -
   name: Марьина Роща
+  name_en: Maryina Roshcha
   name_uniq: false
   line_uid: "11"
 -
   name: Марьина Роща
+  name_en: Maryina Roshcha
   name_uniq: false
   line_uid: "D2"
 -
   name: Марьина Роща
+  name_en: Maryina Roshcha
   name_uniq: false
   line_uid: "10"
+  coordinates: 37.6162,55.7954
 -
   name: Марьино
+  name_en: Maryino
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.7431,55.65
 -
   name: Маяковская
+  name_en: Mayakovskaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.5958,55.7701
 -
   name: Медведково
+  name_en: Medvedkovo
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.6613,55.8872
 -
   name: Международная
+  name_en: Mezhdunarodnaya
   name_uniq: true
   line_uid: "4"
+  coordinates: 37.5339,55.7483
 -
   name: Менделеевская
+  name_en: Mendeleyevskaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6011,55.781
 -
   name: Минская
+  name_en: Minskaya
   name_uniq: true
   line_uid: "8A"
+  coordinates: 37.497,55.7246
 -
   name: Митино
+  name_en: Mitino
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.3622,55.8457
 -
   name: Мичуринский проспект
+  name_en: Michurinsky Prospekt
   name_uniq: false
   line_uid: "8A"
+  coordinates: 37.485,55.689444
 -
   name: Мичуринский проспект
+  name_en: Michurinsky Prospekt
   name_uniq: false
   line_uid: "11"
 -
   name: Мнёвники
+  name_en: Mnevniki
   name_uniq: true
   line_uid: "11"
 -
   name: Молодёжная
+  name_en: Molodyozhnaya
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.4168,55.7408
 -
   name: Москва Товарная
   name_uniq: true
@@ -692,124 +989,171 @@
   line_uid: "D2"
 -
   name: Мякинино
+  name_en: Myakinino
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.3852,55.8252
 -
   name: Нагатинская
+  name_en: Nagatinskaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6224,55.683
 -
   name: Нагатинский затон
   name_uniq: true
   line_uid: "11"
 -
   name: Нагорная
+  name_en: Nagornaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6104,55.6724
 -
   name: Нахабино
   name_uniq: true
   line_uid: "D2"
 -
   name: Нахимовский проспект
+  name_en: Nakhimovsky Prospekt
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6055,55.6627
 -
   name: Некрасовка
+  name_en: Nekrasovka
   name_uniq: true
   line_uid: "15"
+  coordinates: 37.926388,55.703611
 -
   name: Немчиновка
   name_uniq: true
   line_uid: "D1"
 -
   name: Нижегородская
+  name_en: Nizhegorodskaya
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.728611,55.7325
 -
   name: Нижегородская
+  name_en: Nizhegorodskaya
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.7281,55.7321
 -
   name: Нижегородская
+  name_en: Nizhegorodskaya
   name_uniq: false
   line_uid: "15"
 -
   name: Новогиреево
+  name_en: Novogireyevo
   name_uniq: true
   line_uid: "8"
+  coordinates: 37.8166,55.7517
 -
   name: Новодачная
   name_uniq: true
   line_uid: "D1"
 -
   name: Новокосино
+  name_en: Novokosino
   name_uniq: true
   line_uid: "8"
+  coordinates: 37.8638,55.7451
 -
   name: Новокузнецкая
+  name_en: Novokuznetskaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.6295,55.7415
 -
   name: Новопеределкино
+  name_en: Novoperedelkino
   name_uniq: true
   line_uid: "8A"
+  coordinates: 37.3552,55.6396
 -
   name: Новослободская
+  name_en: Novoslobodskaya
   name_uniq: true
   line_uid: "5"
+  coordinates: 37.6028,55.7799
 -
   name: Новохохловская
+  name_en: Novokhokhlovskaya
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.7173,55.7243
 -
   name: Новохохловская
+  name_en: Novokhokhlovskaya
   name_uniq: false
   line_uid: "D2"
 -
   name: Новоясеневская
+  name_en: Novoyasenevskaya
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.5541,55.601
 -
   name: Новые Черёмушки
+  name_en: Novye Cheryomushki
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.5544,55.6702
 -
   name: Одинцово
   name_uniq: true
   line_uid: "D1"
 -
   name: Озёрная
+  name_en: Ozyornaya
   name_uniq: true
   line_uid: "8A"
+  coordinates: 37.449525,55.670448
 -
   name: Окружная
+  name_en: Okruzhnaya
   name_uniq: false
   line_uid: "10"
+  coordinates: 37.57425,55.846
 -
   name: Окружная
+  name_en: Okruzhnaya
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.5711,55.8489
 -
   name: Окружная
+  name_en: Okruzhnaya
   name_uniq: false
   line_uid: "D1"
 -
   name: Окская
+  name_en: Okskaya
   name_uniq: true
   line_uid: "15"
+  coordinates: 37.781666,55.718611
 -
   name: Октябрьская
+  name_en: Oktyabrskaya
   name_uniq: false
   line_uid: "5"
+  coordinates: 37.6091,55.7297
 -
   name: Октябрьская
+  name_en: Oktyabrskaya
   name_uniq: false
   line_uid: "6"
+  coordinates: 37.6112,55.7306
 -
   name: Октябрьское поле
+  name_en: Oktyabrskoye Polye
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.4935,55.7935
 -
   name: Ольховая
   name_uniq: true
@@ -820,124 +1164,170 @@
   line_uid: "D2"
 -
   name: Орехово
+  name_en: Orekhovo
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.6949,55.6132
 -
   name: Остафьево
   name_uniq: true
   line_uid: "D2"
 -
   name: Отрадное
+  name_en: Otradnoye
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6047,55.8633
 -
   name: Охотный Ряд
+  name_en: Okhotny Ryad
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.6166,55.7577
 -
   name: Павелецкая
+  name_en: Paveletskaya
   name_uniq: false
   line_uid: "2"
+  coordinates: 37.6377,55.7305
 -
   name: Павелецкая
+  name_en: Paveletskaya
   name_uniq: false
   line_uid: "5"
+  coordinates: 37.6379,55.7318
 -
   name: Павшино
   name_uniq: true
   line_uid: "D2"
 -
   name: Панфиловская
+  name_en: Panfilovskaya
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.4988,55.7991
 -
   name: Парк Победы
+  name_en: Park Pobedy
   name_uniq: false
   line_uid: "3"
+  coordinates: 37.5182,55.7362
 -
   name: Парк Победы
   name_uniq: false
   line_uid: "8A"
 -
   name: Парк культуры
+  name_en: Park Kultury
   name_uniq: false
   line_uid: "1"
+  coordinates: 37.5943,55.7356
 -
   name: Парк культуры
+  name_en: Park Kultury
   name_uniq: false
   line_uid: "5"
+  coordinates: 37.5915,55.7357
 -
   name: Партизанская
+  name_en: Partizanskaya
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.7506,55.7886
 -
   name: Пенягино
   name_uniq: true
   line_uid: "D2"
 -
   name: Первомайская
+  name_en: Pervomayskaya
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.7993,55.7948
 -
   name: Перерва
   name_uniq: true
   line_uid: "D2"
 -
   name: Перово
+  name_en: Perovo
   name_uniq: true
   line_uid: "8"
+  coordinates: 37.7866,55.7511
 -
   name: Петровский парк
+  name_en: Petrovsky Park
   name_uniq: false
   line_uid: "8A"
+  coordinates: 37.5578,55.7925
 -
   name: Петровский парк
+  name_en: Petrovsky Park
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.5571,55.7918
 -
   name: Петровско-Разумовская
+  name_en: Petrovsko-Razumovskaya
   name_uniq: false
   line_uid: "9"
+  coordinates: 37.5745,55.8351
 -
   name: Петровско-Разумовская
+  name_en: Petrovsko-Razumovskaya
   name_uniq: false
   line_uid: "10"
 -
   name: Петровско-Разумовская
+  name_en: Petrovsko-Razumovskaya
   name_uniq: false
   line_uid: "D1"
 -
   name: Печатники
+  name_en: Pechatniki
   name_uniq: false
   line_uid: "10"
+  coordinates: 37.727,55.6934
 -
   name: Печатники
+  name_en: Pechatniki
   name_uniq: false
   line_uid: "11"
 -
   name: Печатники
+  name_en: Pechatniki
   name_uniq: false
   line_uid: "D2"
 -
   name: Пионерская
+  name_en: Pionerskaya
   name_uniq: true
   line_uid: "4"
+  coordinates: 37.4671,55.736
 -
   name: Планерная
+  name_en: Planernaya
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.4364,55.8607
 -
   name: Площадь Гагарина
+  name_en: Ploshchad Gagarina
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.5858,55.7071
 -
   name: Площадь Ильича
+  name_en: Ploshchad Ilyicha
   name_uniq: true
   line_uid: "8"
+  coordinates: 37.6824,55.7472
 -
   name: Площадь Революции
+  name_en: Ploshchad Revolyutsii
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.6216,55.7566
 -
   name: Подольск
   name_uniq: true
@@ -952,140 +1342,198 @@
   line_uid: "D2"
 -
   name: Полежаевская
+  name_en: Polezhayevskaya
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.5192,55.7775
 -
   name: Полянка
+  name_en: Polyanka
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.618,55.7379
 -
   name: Пражская
+  name_en: Prazhskaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6044,55.6124
 -
   name: Преображенская площадь
+  name_en: Preobrazhenskaya Ploshchad
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.7151,55.7963
 -
   name: Прокшино
   name_uniq: true
   line_uid: "1"
 -
   name: Пролетарская
+  name_en: Proletarskaya
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.6659,55.7319
 -
   name: Проспект Вернадского
+  name_en: Prospekt Vernadskogo
   name_uniq: false
   line_uid: "1"
+  coordinates: 37.506,55.6771
 -
   name: Проспект Вернадского
+  name_en: Prospekt Vernadskogo
   name_uniq: false
   line_uid: "11"
 -
   name: Проспект Мира
+  name_en: Prospekt Mira
   name_uniq: false
   line_uid: "5"
+  coordinates: 37.6318,55.7798
 -
   name: Проспект Мира
+  name_en: Prospekt Mira
   name_uniq: false
   line_uid: "6"
+  coordinates: 37.6318,55.7812
 -
   name: Профсоюзная
+  name_en: Profsoyuznaya
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.5627,55.678
 -
   name: Пушкинская
+  name_en: Pushkinskaya
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.6079,55.765
 -
   name: Пятницкое шоссе
+  name_en: Pyatnitskoye Shosse
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.3544,55.8563
 -
   name: Рабочий поселок
   name_uniq: true
   line_uid: "D1"
 -
   name: Раменки
+  name_en: Ramenki
   name_uniq: true
   line_uid: "8A"
+  coordinates: 37.4984,55.6975
 -
   name: Рассказовка
+  name_en: Rasskazovka
   name_uniq: true
   line_uid: "8A"
+  coordinates: 37.3347,55.6339
 -
   name: Речной вокзал
+  name_en: Rechnoy Vokzal
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.4761,55.8549
 -
   name: Рижская
+  name_en: Rizhskaya
   name_uniq: false
   line_uid: "6"
+  coordinates: 37.6362,55.7936
 -
   name: Рижская
+  name_en: Rizhskaya
   name_uniq: false
   line_uid: "11"
 -
   name: Рижская
+  name_en: Rizhskaya
   name_uniq: false
   line_uid: "D2"
 -
   name: Римская
+  name_en: Rimskaya
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.6819,55.7463
 -
   name: Ростокино
+  name_en: Rostokino
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.6676,55.8395
 -
   name: Румянцево
+  name_en: Rumyantsevo
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.4419,55.633
 -
   name: Рязанский проспект
+  name_en: Ryazansky Prospekt
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.7933,55.717
 -
   name: Савёловская
+  name_en: Savyolovskaya
   name_uniq: false
   line_uid: "8A"
 -
   name: Савёловская
+  name_en: Savyolovskaya
   name_uniq: false
   line_uid: "9"
+  coordinates: 37.5885,55.7927
 -
   name: Савёловская
+  name_en: Savyolovskaya
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.587,55.7934
 -
   name: Савёловская
   name_uniq: false
   line_uid: "D1"
 -
   name: Саларьево
+  name_en: Salaryevo
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.424,55.6227
 -
   name: Свиблово
+  name_en: Sviblovo
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.6527,55.8552
 -
   name: Севастопольская
+  name_en: Sevastopolskaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.5984,55.6524
 -
   name: Селигерская
+  name_en: Seligerskaya
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.548333,55.865
 -
   name: Семёновская
+  name_en: Semyonovskaya
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.7208,55.7833
 -
   name: Серпуховская
+  name_en: Serpukhovskaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6246,55.728
 -
   name: Сетунь
   name_uniq: true
@@ -1100,112 +1548,166 @@
   line_uid: "D1"
 -
   name: Славянский бульвар
+  name_en: Slavyansky Bulvar
   name_uniq: false
   line_uid: "3"
+  coordinates: 37.4706,55.7296
 -
   name: Славянский бульвар
   name_uniq: false
   line_uid: "D1"
 -
   name: Смоленская
+  name_en: Smolenskaya
   name_uniq: false
   line_uid: "3"
+  coordinates: 37.5823,55.7474
 -
   name: Смоленская
+  name_en: Smolenskaya
   name_uniq: false
   line_uid: "4"
+  coordinates: 37.5825,55.7488
 -
   name: Сокол
+  name_en: Sokol
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.5153,55.8051
 -
   name: Соколиная Гора
+  name_en: Sokolinaya Gora
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.7451,55.7714
 -
   name: Сокольники
+  name_en: Sokolniki
   name_uniq: false
   line_uid: "1"
+  coordinates: 37.6802,55.7888
 -
   name: Сокольники
+  name_en: Sokolniki
   name_uniq: false
   line_uid: "11"
 -
   name: Солнцево
+  name_en: Solntsevo
   name_uniq: true
   line_uid: "8A"
+  coordinates: 37.3909,55.6493
 -
   name: Спартак
+  name_en: Spartak
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.4352,55.8182
 -
   name: Спортивная
+  name_en: Sportivnaya
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.5639,55.7233
 -
   name: Сретенский бульвар
+  name_en: Sretensky Bulvar
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.6392,55.7668
 -
   name: Стахановская
+  name_en: Stakhanovskaya
   name_uniq: true
   line_uid: "15"
+  coordinates: 37.761944,55.725
 -
   name: Стрешнево
+  name_en: Streshnevo
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.487,55.8137
 -
   name: Стрешнево
+  name_en: Streshnevo
   name_uniq: false
   line_uid: "D2"
 -
   name: Строгино
+  name_en: Strogino
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.4031,55.8038
 -
   name: Студенческая
+  name_en: Studencheskaya
   name_uniq: true
   line_uid: "4"
+  coordinates: 37.5483,55.7388
+-
+  name: Суворовская
+  name_en: Suvorovskaya
+  name_uniq: true
+  line_uid: "5"
+  coordinates: 37.6204,55.7802
 -
   name: Сухаревская
+  name_en: Sukharevskaya
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.6319,55.7733
 -
   name: Сходненская
+  name_en: Skhodnenskaya
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.4396,55.8505
 -
   name: Таганская
+  name_en: Taganskaya
   name_uniq: false
   line_uid: "5"
+  coordinates: 37.6517,55.7418
 -
   name: Таганская
+  name_en: Taganskaya
   name_uniq: false
   line_uid: "7"
+  coordinates: 37.6522,55.7402
 -
   name: Тверская
+  name_en: Tverskaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.6065,55.7647
 -
   name: Театральная
+  name_en: Teatralnaya
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.619,55.7578
 -
   name: Текстильщики
+  name_en: Tekstilshchiki
   name_uniq: false
   line_uid: "7"
+  coordinates: 37.7316,55.7088
 -
   name: Текстильщики
+  name_en: Tekstilshchiki
   name_uniq: false
   line_uid: "11"
 -
   name: Текстильщики
+  name_en: Tekstilshchiki
   name_uniq: false
   line_uid: "D2"
 -
   name: Телецентр
+  name_en: Teletsentr
   name_uniq: true
   line_uid: "13"
+  coordinates: 37.6089,55.8218
 -
   name: Терехово
   name_uniq: true
@@ -1216,26 +1718,36 @@
   line_uid: "D1"
 -
   name: Технопарк
+  name_en: Tekhnopark
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.6645,55.6933
 -
   name: Тимирязевская
+  name_en: Timiryazevskaya
   name_uniq: false
   line_uid: "9"
+  coordinates: 37.5765,55.8176
 -
   name: Тимирязевская
+  name_en: Timiryazevskaya
   name_uniq: false
   line_uid: "13"
+  coordinates: 37.5789,55.819
 -
   name: Тимирязевская
+  name_en: Timiryazevskaya
   name_uniq: false
   line_uid: "D1"
 -
   name: Третьяковская
+  name_en: Tretyakovskaya
   name_uniq: false
   line_uid: "6"
+  coordinates: 37.6274,55.7412
 -
   name: Третьяковская
+  name_en: Tretyakovskaya
   name_uniq: false
   line_uid: "8"
 -
@@ -1244,90 +1756,131 @@
   line_uid: "D2"
 -
   name: Тропарёво
+  name_en: Troparyovo
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.4725,55.6459
 -
   name: Трубная
+  name_en: Trubnaya
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.62,55.7688
 -
   name: Тульская
+  name_en: Tulskaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6229,55.7087
 -
   name: Тургеневская
+  name_en: Turgenevskaya
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.6374,55.7661
 -
   name: Тушинская
+  name_en: Tushinskaya
   name_uniq: false
   line_uid: "7"
+  coordinates: 37.4368,55.8267
 -
   name: Тушинская
+  name_en: Tushinskaya
   name_uniq: false
   line_uid: "D2"
 -
   name: Тёплый стан
+  name_en: Tyoply Stan
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.5082,55.6191
 -
   name: Угрешская
+  name_en: Ugreshskaya
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.6976,55.7185
 -
   name: Ул. Академика Королёва
+  name_en: Ulitsa Akademika Korolyova
   name_uniq: true
   line_uid: "13"
+  coordinates: 37.6269,55.8218
 -
   name: Ул. Милашенкова
+  name_en: Ulitsa Milashenkova
   name_uniq: true
   line_uid: "13"
+  coordinates: 37.5911,55.8218
 -
   name: Ул. Сергея Эйзенштейна
+  name_en: Ulitsa Sergeya Eisensteina
   name_uniq: true
   line_uid: "13"
+  coordinates: 37.6449,55.8292
 -
   name: Улица 1905 года
+  name_en: Ulitsa 1905 Goda
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.5613,55.765
+-
+  name: Улица академика Янгеля
+  name_en: Ulitsa Akademika Yangelya
+  name_uniq: true
+  line_uid: "9"
+  coordinates: 37.6004,55.5949
 -
   name: Улица Горчакова
+  name_en: Ulitsa Gorchakova
   name_uniq: true
   line_uid: "12"
+  coordinates: 37.5308,55.5418
 -
   name: Улица Дмитриевского
+  name_en: Ulitsa Dmitriyevskogo
   name_uniq: true
   line_uid: "15"
+  coordinates: 37.879166,55.71
 -
   name: Улица Новаторов
   name_uniq: true
   line_uid: "11"
 -
   name: Улица Скобелевская
+  name_en: Ulitsa Skobelevskaya
   name_uniq: true
   line_uid: "12"
+  coordinates: 37.5546,55.5481
 -
   name: Улица Старокачаловская
+  name_en: Ulitsa Starokachalovskaya
   name_uniq: true
   line_uid: "12"
--
-  name: Улица академика Янгеля
-  name_uniq: true
-  line_uid: "9"
+  coordinates: 37.5767,55.569
 -
   name: Университет
+  name_en: Universitet
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.5333,55.6926
 -
   name: Филатов Луг
+  name_en: Filatov Lug
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.4077,55.6013
 -
   name: Филёвский парк
+  name_en: Filyovsky Park
   name_uniq: true
   line_uid: "4"
+  coordinates: 37.4833,55.7396
 -
   name: Фили
+  name_en: Fili
+  coordinates: 37.515,55.746
   name_uniq: false
   line_uid: "4"
 -
@@ -1336,137 +1889,197 @@
   line_uid: "D1"
 -
   name: Фонвизинская
+  name_en: Fonvizinskaya
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.589967,55.821512
 -
   name: Фрунзенская
+  name_en: Frunzenskaya
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.5786,55.7267
 -
   name: Хлебниково
   name_uniq: true
   line_uid: "D1"
 -
   name: Ховрино
+  name_en: Khovrino
   name_uniq: true
   line_uid: "2"
+  coordinates: 37.482222,55.879167
 -
   name: Хорошёво
+  name_en: Khoroshyovo
   name_uniq: true
   line_uid: "14"
+  coordinates: 37.5072,55.7772
 -
   name: Хорошёвская
+  name_en: Khoroshyovskaya
   name_uniq: false
   line_uid: "8A"
+  coordinates: 37.5181,55.7766
 -
   name: Хорошёвская
+  name_en: Khoroshyovo
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.5071,55.7773
 -
   name: ЦСКА
+  name_en: CSKA
   name_uniq: false
   line_uid: "8A"
+  coordinates: 37.5333,55.7866
 -
   name: ЦСКА
+  name_en: CSKA
   name_uniq: false
   line_uid: "11"
 -
   name: Царицыно
+  name_en: Tsaritsyno
   name_uniq: false
   line_uid: "2"
+  coordinates: 37.6694,55.6214
 -
   name: Царицыно
+  name_en: Tsaritsyno
   name_uniq: false
   line_uid: "D2"
 -
   name: Цветной бульвар
+  name_en: Tsvetnoy Bulvar
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6187,55.7708
 -
   name: Черкизовская
+  name_en: Cherkizovskaya
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.7448,55.8038
 -
   name: Чертановская
+  name_en: Chertanovskaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6067,55.6405
 -
   name: Чеховская
+  name_en: Chekhovskaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.6097,55.7644
 -
   name: Чистые пруды
+  name_en: Chistye Prudy
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.6388,55.7657
 -
   name: Чкаловская
+  name_en: Chkalovskaya
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.6573,55.7565
 -
   name: Шаболовская
+  name_en: Shabolovskaya
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.6083,55.7198
 -
   name: Шелепиха
+  name_en: Shelepikha
   name_uniq: false
   line_uid: "8A"
+  coordinates: 37.526,55.7567
 -
   name: Шелепиха
+  name_en: Shelepikha
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.524,55.7574
 -
   name: Шелепиха
+  name_en: Shelepikha
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.5263,55.7564
 -
   name: Шереметьевская
   name_uniq: true
   line_uid: "D1"
 -
   name: Шипиловская
+  name_en: Shipilovskaya
   name_uniq: true
   line_uid: "10"
+  coordinates: 37.7437,55.6211
 -
   name: Шоссе Энтузиастов
+  name_en: Shosse Entuziastov
   name_uniq: false
   line_uid: "8"
+  coordinates: 37.75,55.7576
 -
   name: Шоссе Энтузиастов
+  name_en: Shosse Entuziastov
   name_uniq: false
   line_uid: "14"
+  coordinates: 37.7463,55.7589
 -
   name: Щербинка
   name_uniq: true
   line_uid: "D2"
 -
   name: Щукинская
+  name_en: Shchukinskaya
   name_uniq: true
   line_uid: "7"
+  coordinates: 37.4641,55.8086
 -
   name: Щёлковская
+  name_en: Shchyolkovskaya
   name_uniq: true
   line_uid: "3"
+  coordinates: 37.7986,55.8094
 -
   name: Электрозаводская
+  name_en: Elektrozavodskaya
   name_uniq: false
   line_uid: "3"
+  coordinates: 37.7037,55.7817
 -
   name: Электрозаводская
+  name_en: Elektrozavodskaya
   name_uniq: false
   line_uid: "11"
+  coordinates: 37.702777,55.780833
 -
   name: Юго-Восточная
+  name_en: Yugo-Vostochnaya
   name_uniq: true
   line_uid: "15"
+  coordinates: 37.818055,55.705
 -
   name: Юго-Западная
+  name_en: Yugo-Zapadnaya
   name_uniq: true
   line_uid: "1"
+  coordinates: 37.4833,55.6637
 -
   name: Южная
+  name_en: Yuzhnaya
   name_uniq: true
   line_uid: "9"
+  coordinates: 37.609,55.6224
 -
   name: Ясенево
+  name_en: Yasenevo
   name_uniq: true
   line_uid: "6"
+  coordinates: 37.5333,55.6063

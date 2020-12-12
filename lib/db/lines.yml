@@ -1,76 +1,114 @@
 -
   name: Сокольническая
+  name_en: Sokolnicheskaya
   uid: "1"
   color: "#f91f22"
+  open_year: 1935
 -
   name: Замоскворецкая
+  name_en: Zamoskvoretskaya
   uid: "2"
   color: "#05ff16"
+  open_year: 1938
 -
   name: Арбатско-Покровская
+  name_en: Arbatsko-Pokrovskaya
   uid: "3"
   color: "#2075b1"
+  open_year: 1938
 -
   name: Филёвская
+  name_en: Filyovskaya
   uid: "4"
   color: "#52d2f4"
+  open_year: 1958
 -
   name: Кольцевая
+  name_en: Koltsevaya
   uid: "5"
   color: "#75573e"
+  open_year: 1950
 -
   name: Калужско-Рижская
+  name_en: Kaluzhsko-Rizhskaya
   uid: "6"
   color: "#f6990e"
+  open_year: 1958
 -
   name: Таганско-Краснопресненская
+  name_en: Tagansko-Krasnopresnenskaya
   uid: "7"
   color: "#821c71"
+  open_year: 1966
 -
   name: Калининская
+  name_en: Kalininskaya
   uid: "8"
   color: "#efc943"
+  open_year: 1979
 -
   name: Солнцевская
+  name_en: Solntsevskaya
   uid: "8A"
   color: "#efc943"
+  open_year: 2014
 -
   name: Серпуховско-Тимирязевская
+  name_en: Serpukhovsko-Timiryazevskaya
   uid: "9"
   color: "#bdbcbc"
+  open_year: 1983
 -
   name: Люблинско-Дмитровская
+  name_en: Lyublinsko-Dmitrovskaya
   uid: "10"
   color: "#b1d87d"
+  open_year: 1995
 -
   name: Большая кольцевая
+  name_en: Bolshaya Koltsevaya
   uid: "11"
   color: "#a6ded2"
+  open_year: 2018
 -
   name: Каховская
+  name_en:
   uid: "11A"
   color: "#a6ded2"
+  open_year:
 -
   name: Бутовская
+  name_en: Butovskaya
   uid: "12"
   color: "#c8bcd2"
+  open_year: 2003
 -
   name: Монорельс
+  name_en: Monorail
   uid: "13"
   color: "#0A72B9"
+  open_year: 2004
 -
   name: МЦК
+  name_en: Moscow Central Circle
   uid: "14"
   color: "#ffcec6"
+  open_year: 2016
 -
   name: Некрасовская
+  name_en: Nekrasovskaya
   uid: "15"
   color: "#e363b3"
+  open_year: 2019
 -
   name: Белорусско-Савёловский диаметр
+  name_en: Belorussko-Savyolovsky diameter
   uid: "D1"
   color: "#ed9f2d"
+  open_year: 2019
 -
   name: Калужско-Рижский диаметр
+  name_en: Kursko-Rizhsky diameter
   uid: "D2"
   color: "#df477c"
+  open_year: 2019

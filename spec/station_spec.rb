@@ -9,15 +9,15 @@ RSpec.describe MoscowMetro::Station do
 	end
 
 	it "All stations have names" do
-		expect(subject.find { |station| [nil, ""].include? station.name }).to eq nil
+		expect(subject.select { |station| [nil, ""].include? station.name }).to eq []
 	end
 
-	it "All stations have color" do
-		expect(subject.find { |station| [nil, ""].include? station.color }).to eq nil
+	it "All stations have name_en" do
+		expect(subject.select { |station| [nil, ""].include? station.name_en }).to eq []
 	end
 
 	it "All stations have line UIDs" do
-		expect(subject.find { |station| [nil, ""].include? station.line_uid }).to eq nil
+		expect(subject.select { |station| [nil, ""].include? station.line_uid }).to eq []
 	end
 
 	describe "`name_uniq` correcness" do
