@@ -1,36 +1,34 @@
 # MoscowMetro
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/moscow_metro`. To experiment with that code, run `bin/console` for an interactive prompt.
+Список станций и линий Московского метрополитена + хелперы.
 
-TODO: Delete this and the text above, and describe your gem
+### Уникальность названий
+
+Названия станций не уникальны: есть Белорусская кольцевой и Замоскворецкой линии.
+
+Возможно, выводя название станций на страницу (например, в `<select>` или в блоке адреса), вам захочется указывать нназвание линии для тех станций, которые называются одинаково, и не указывать для станций с уникальным именем. Например, «Белорусская кольцевая», но «Новокузнецкая».
+
+Для этих целей у станций есть свойство `name_uniq`.
+
+### UID линий
+
+Московский метрополитен использует некие UID для линий, мы берём его, а не придумываем свои ID. Для большинства линий это Integer, но встречаются линии с UID, состоящим из Integer и строки, как `11A`, поэтому все UID мы храним как String.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
 ```ruby
-gem 'moscow_metro'
+gem "moscow_metro"
 ```
-
-And then execute:
-
-    $ bundle install
-
-Or install it yourself as:
-
-    $ gem install moscow_metro
 
 ## Usage
 
-TODO: Write usage instructions here
+Предполагается 3 варианта использования этого джема:
 
-## Development
-
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+1. Хранить станции и линии в БД. Gem поможет создать классы и миграции + автоматически заполнить таблицы, запустив Rake task.
+1. Хранить станции и линии в БД, а gem использовать для валидаций.
+1. Использовать gem в качестве базы данных, не создавая таблиц в своей БД. Если gem отстанет от жизни, можно форкнуть или прислать PR.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/moscow_metro.
+Please contribute.
 

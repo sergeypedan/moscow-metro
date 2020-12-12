@@ -3,7 +3,7 @@
 module MoscowMetro
   class Station < RecordFromYaml
 
-    COLUMNS = [:name, :line_uid]
+    COLUMNS = [:name, :name_uniq, :line_uid]
     RECORDS = YAML.load_file(DB_DIR.join("stations.yml"))
 
     Record = Struct.new(*COLUMNS) do
