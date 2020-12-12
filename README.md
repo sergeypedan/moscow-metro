@@ -109,10 +109,10 @@ divs.length // 672
 function station_object_from_div(div) {
   let ids = div.dataset.id.replace("line", "").split("_")
   return {
-    color:    div.dataset.color,
+       color: div.dataset.color,
     line_uid: ids[0],
-    name:     div.innerText,
-    uid:      ids[1]
+        name: div.innerText,
+         uid: ids[1]
   }
 }
 
