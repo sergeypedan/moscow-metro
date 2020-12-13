@@ -1,5 +1,7 @@
 # MoscowMetro
 
+[![Build Status](https://travis-ci.org/sergeypedan/moscow-metro.svg?branch=master)](https://travis-ci.org/sergeypedan/moscow-metro)
+
 Список станций и линий Московского метрополитена + хелперы.
 
 ### Актуальность данных
