@@ -129,6 +129,11 @@ MoscowMetro::Station.all.each do |station|
 end
 ```
 
+Также можно использовать данные прямо из YAML-файлов:
+
+- [stations.yml](https://github.com/sergeypedan/moscow-metro/blob/master/lib/db/stations.yml)
+- [lines.yml](https://github.com/sergeypedan/moscow-metro/blob/master/lib/db/lines.yml)
+
 
 ## Источники данных
 
