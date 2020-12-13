@@ -3,14 +3,14 @@
 require_relative 'lib/moscow_metro/version'
 
 Gem::Specification.new do |spec|
-  spec.name        =  "moscow_metro"
-  spec.version     =   MoscowMetro::VERSION
   spec.author      =  "Sergey Pedan"
-  spec.email       = ["sergey.pedan@gmail.com"]
   spec.summary     =  "Database of lines and stations metro & metro-like train transport of Moscow"
   spec.description =  "#{spec.summary}. Can be used as a database alongside a real database or as a source of data for further import into your database."
+  spec.email       = ["sergey.pedan@gmail.com"]
   spec.homepage    =  "https://github.com/sergeypedan/moscow-metro"
-  spec.license     = "MIT"
+  spec.license     =  "MIT"
+  spec.name        =  "moscow_metro"
+  spec.version     =   MoscowMetro::VERSION
 
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
