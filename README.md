@@ -1,5 +1,6 @@
 # MoscowMetro
 
+[![Gem Version](https://badge.fury.io/rb/moscow_metro.svg)](https://badge.fury.io/rb/moscow_metro)
 [![Build Status](https://travis-ci.org/sergeypedan/moscow-metro.svg?branch=master)](https://travis-ci.org/sergeypedan/moscow-metro)
 [![Maintainability](https://api.codeclimate.com/v1/badges/379adc59603516bdbc8a/maintainability)](https://codeclimate.com/github/sergeypedan/moscow-metro/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/379adc59603516bdbc8a/test_coverage)](https://codeclimate.com/github/sergeypedan/moscow-metro/test_coverage)
@@ -11,7 +12,7 @@
 
 Дата последней проверки: 1 июля 2020 г.
 
-Если гем отстал от жизни, можно <a href="tg://msg?text=Update+your+humble+gem!&to=sergey_pedan">написать мне</a> в Telegram или прислать PR (и лучше написать об этом в Tg).
+Если гем отстал от жизни, можно написать мне в Telegram (`sergey_pedan`) или прислать PR (и лучше написать об этом в Tg).
 
 ### Только метро?
 
@@ -70,13 +71,11 @@ gem "moscow_metro"
 
 ## Usage
 
-Предполагается 2 варианта использования этого джема:
+Предполагается 3 варианта использования этого джема:
 
-1. Использовать gem в качестве базы данных, не создавая таблиц в своей БД. Если gem отстанет от жизни, можно форкнуть или прислать PR.
-1. Хранить станции и линии в БД, а gem использовать для валидаций.
+### 1. Использовать данные напрямую из gem
 
-
-### 1. Использовать gem в качестве базы данных
+Использовать gem в качестве источника данных, не создавая таблиц в своей БД.
 
 Для данных о станциях и линиях есть ActiveModel-подобные классы с методами поиска:
 
@@ -107,7 +106,9 @@ station.name_en     #=> "Aviamotornaya" || nil
 station.name_uniq   #=> false || true
 ```
 
-### 2. Использовать gem для валидаций
+### 2. Хранить станции и линии в БД, а gem использовать для валидаций
+
+Это имеет смысл, если вы решите хранить станции и линии в БД, но не хотите хранить все существующие станции. Тогда при создании новой станции будет полезно проверять корректность имени.
 
 Например, так:
 
@@ -115,6 +116,16 @@ station.name_uniq   #=> false || true
 # models/metro/station.rb
 class Metro::Station < ActiveRecord::Base
   validates :name, inclusion: { in: MoscowMetro::Station.names }
+end
+```
+
+### 3. Для первичного «посева» станций в БД
+
+Вы хотите хранить станции и линии в БД, и вам нужно просто их туда откуда-то записать.
+
+```ruby
+MoscowMetro::Station.all.each do |station|
+  ::Station.create!({ name_ru: station.name, name_en: station.name_en, ... })
 end
 ```
 
@@ -129,7 +140,7 @@ end
 - https://en.wikipedia.org/wiki/Moscow_Metro
 - https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations
 
-### Получаем инфомацию из раскрывающегося списка метро
+На сайте mosmetro.ru есть удобный `<select>`, из которого можно скачать данные:
 
 ```js
 window.location.href = "http://mcd.mosmetro.ru/map/desktop/"
@@ -153,7 +164,7 @@ let station_objects = divs.map(div => station_object_from_div(div))
 console.table(station_objects)
 ```
 
-Получаем таблицу врое этой:
+Получаем таблицу наподобие этой:
 
  color   | name                | line_uid | uid
 :--------|:--------------------|:---------|:----
@@ -166,3 +177,5 @@ console.table(station_objects)
  #ef7e24 | Алексеевская        | 6        | 6
  #4baf4f | Алма-Атинская       | 2        | 24
  #adacac | Алтуфьево           | 9        | 1
+
+Жалко только, в названиях они не ставят букву «ё».
