@@ -5,5 +5,4 @@ bundler_args: --without production
 cache: bundler
 install: bundle install --jobs=3
 language: ruby
-rvm:
-  - 2.7.2
+rvm: 2.7.2
