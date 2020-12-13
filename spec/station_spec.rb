@@ -28,14 +28,10 @@ RSpec.describe MoscowMetro::Station do
 		expect(subject.reject { |station| [NilClass, Float].include? station.longitude.class }).to eq []
 	end
 
-	describe "`name_uniq` correcness" do
-		let(:tally_results) { subject.map(&:name).tally }
-
-		MoscowMetro::Station.all.each do |station|
-			it ":name_uniq is #{station.name_uniq} for #{station.name}" do
-				expect(station.name_uniq).to eq (tally_results.fetch(station.name) == 1)
-			end
-		end
+	it "All stations have correct :name_uniq value" do
+		tally_results = subject.map(&:name).tally
+		stations_with_incorrect_name_uniq = MoscowMetro::Station.all.reject { |station| station.name_uniq == (tally_results.fetch(station.name) == 1) }
+		expect(stations_with_incorrect_name_uniq).to eq []
 	end
 
 end
