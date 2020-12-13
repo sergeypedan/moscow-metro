@@ -30,14 +30,15 @@ ul
 
 Тесты гарантируют, что:
 
-- у всех станций есть `name`
-- у всех станций есть `color`
-- у всех станций есть `line_uid`
-- у всех станций корректно заполнен `name_uniq`
+- у всех линий заполнен `name`
+- у всех линий заполнен `color`
+- у всех линий заполнен `uid`
+- у всех станций заполнен `name`
+- у всех станций заполнен `name_en`
+- у всех станций заполнен `color`
+- у всех станций заполнен `line_uid`
+- у всех станций заполнен `name_uniq`, и он указывает на существующую линию
 - у всех станции `line_uid` указывает на какую-то конкретную линию
-- у всех линий есть `name`
-- у всех линий есть `color`
-- у всех линий есть `uid`
 
 ## Installation
 
@@ -101,6 +102,7 @@ end
 - https://transport.mos.ru
 - https://transport.mos.ru/metro/map
 - http://mcd.mosmetro.ru/map/desktop/
+- https://mosmetro.ru/metro-map/
 - https://www.mos.ru/city/projects/diametry/
 - https://en.wikipedia.org/wiki/Moscow_Metro
 - https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations

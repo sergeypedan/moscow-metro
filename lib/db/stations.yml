@@ -1107,10 +1107,12 @@
   longitude: 55.7408
 -
   name: Москва Товарная
+  name_en: Moskva Tovarnaya
   name_uniq: true
   line_uid: "D2"
 -
   name: Москворечье
+  name_en: Moskvorechye
   name_uniq: true
   line_uid: "D2"
 -
@@ -1129,6 +1131,7 @@
   longitude: 55.683
 -
   name: Нагатинский затон
+  name_en: Nagatinskiy Zaton
   name_uniq: true
   line_uid: "11"
 -
@@ -1140,6 +1143,7 @@
   longitude: 55.6724
 -
   name: Нахабино
+  name_en: Nakhabino
   name_uniq: true
   line_uid: "D2"
 -
@@ -1158,6 +1162,7 @@
   longitude: 55.703611
 -
   name: Немчиновка
+  name_en: Nemchinovka
   name_uniq: true
   line_uid: "D1"
 -
@@ -1188,6 +1193,7 @@
   longitude: 55.7517
 -
   name: Новодачная
+  name_en: Novodachnaya
   name_uniq: true
   line_uid: "D1"
 -
@@ -1246,6 +1252,7 @@
   longitude: 55.6702
 -
   name: Одинцово
+  name_en: Odintsovo
   name_uniq: true
   line_uid: "D1"
 -
@@ -1304,10 +1311,12 @@
   longitude: 55.7935
 -
   name: Ольховая
+  name_en: Olkhovaya
   name_uniq: true
   line_uid: "1"
 -
   name: Опалиха
+  name_en: Opalikha
   name_uniq: true
   line_uid: "D2"
 -
@@ -1319,6 +1328,7 @@
   longitude: 55.6132
 -
   name: Остафьево
+  name_en: Ostafievo
   name_uniq: true
   line_uid: "D2"
 -
@@ -1351,6 +1361,7 @@
   longitude: 55.7318
 -
   name: Павшино
+  name_en: Pavshino
   name_uniq: true
   line_uid: "D2"
 -
@@ -1369,6 +1380,7 @@
   longitude: 55.7362
 -
   name: Парк Победы
+  name_en: Park Pobedy
   name_uniq: false
   line_uid: "8A"
 -
@@ -1394,6 +1406,7 @@
   longitude: 55.7886
 -
   name: Пенягино
+  name_en: Penyagino
   name_uniq: true
   line_uid: "D2"
 -
@@ -1405,6 +1418,7 @@
   longitude: 55.7948
 -
   name: Перерва
+  name_en: Pererva
   name_uniq: true
   line_uid: "D2"
 -
@@ -1499,14 +1513,17 @@
   longitude: 55.7566
 -
   name: Подольск
+  name_en: Podolsk
   name_uniq: true
   line_uid: "D2"
 -
   name: Покровское
+  name_en: Pokrovskoye
   name_uniq: true
   line_uid: "D2"
 -
   name: Покровское-Стрешнево
+  name_en: Pokrovskoye-Streshnevo
   name_uniq: true
   line_uid: "D2"
 -
@@ -1539,6 +1556,7 @@
   longitude: 55.7963
 -
   name: Прокшино
+  name_en: Prokshino
   name_uniq: true
   line_uid: "1"
 -
@@ -1597,6 +1615,7 @@
   longitude: 55.8563
 -
   name: Рабочий поселок
+  name_en: Rabochiy Posyolok
   name_uniq: true
   line_uid: "D1"
 -
@@ -1686,6 +1705,7 @@
   longitude: 55.7934
 -
   name: Савёловская
+  name_en: Savyolovskaya
   name_uniq: false
   line_uid: "D1"
 -
@@ -1732,14 +1752,17 @@
   longitude: 55.728
 -
   name: Сетунь
+  name_en: Setun
   name_uniq: true
   line_uid: "D1"
 -
   name: Силикатная
+  name_en: Silikatnaya
   name_uniq: true
   line_uid: "D2"
 -
   name: Сколково
+  name_en: Skolkovo
   name_uniq: true
   line_uid: "D1"
 -
@@ -1751,6 +1774,7 @@
   longitude: 55.7296
 -
   name: Славянский бульвар
+  name_en: Slavyansky Bulvar
   name_uniq: false
   line_uid: "D1"
 -
@@ -1929,10 +1953,12 @@
   longitude: 55.8218
 -
   name: Терехово
+  name_en: Terekhovo
   name_uniq: true
   line_uid: "11"
 -
   name: Тестовская
+  name_en: Testovskaya
   name_uniq: true
   line_uid: "D1"
 -
@@ -1975,6 +2001,7 @@
   line_uid: "8"
 -
   name: Трикотажная
+  name_en: Trikotazhnaya
   name_uniq: true
   line_uid: "D2"
 -
@@ -2082,6 +2109,7 @@
   longitude: 55.71
 -
   name: Улица Новаторов
+  name_en: Ulitsa Novatorov
   name_uniq: true
   line_uid: "11"
 -
@@ -2128,6 +2156,7 @@
   line_uid: "4"
 -
   name: Фили
+  name_en: Fili
   name_uniq: false
   line_uid: "D1"
 -
@@ -2146,6 +2175,7 @@
   longitude: 55.7267
 -
   name: Хлебниково
+  name_en: Khlebnikovo
   name_uniq: true
   line_uid: "D1"
 -
@@ -2272,6 +2302,7 @@
   longitude: 55.7564
 -
   name: Шереметьевская
+  name_en: Sheremetyevskaya
   name_uniq: true
   line_uid: "D1"
 -
@@ -2297,6 +2328,7 @@
   longitude: 55.7589
 -
   name: Щербинка
+  name_en: Shcherbinka
   name_uniq: true
   line_uid: "D2"
 -
