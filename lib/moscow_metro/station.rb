@@ -24,5 +24,25 @@ module MoscowMetro
 			all.map(&:name).uniq
 		end
 
+		def self.at_lines(uids)
+			all.select { |station| uids.include? station.line_uid }
+		end
+
+		def self.at_mcd
+			at_lines Line::UIDS[:mck]
+		end
+
+		def self.at_mck
+			at_lines Line::UIDS[:mck]
+		end
+
+		def self.at_metro
+			at_lines Line::UIDS[:metro]
+		end
+
+		def self.at_monorail
+			at_lines Line::UIDS[:monorail]
+		end
+
 	end
 end

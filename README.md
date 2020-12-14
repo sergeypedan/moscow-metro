@@ -80,10 +80,24 @@ gem "moscow_metro"
 Для данных о станциях и линиях есть ActiveModel-подобные классы с методами поиска:
 
 ```ruby
-MoscowMetro::Station.all #=> Array
-MoscowMetro::Line.all    #=> Array
+MoscowMetro::Station.all #=> Array of stations
+
+MoscowMetro::Station.at_mcd      #=> Array of stations
+MoscowMetro::Station.at_mck      #=> Array of stations
+MoscowMetro::Station.at_metro    #=> Array of stations
+MoscowMetro::Station.at_monorail #=> Array of stations
+```
+
+```ruby
+MoscowMetro::Line.all    #=> Array of lines
+
 MoscowMetro::Line.find_by_uid("11A") #=> #<struct MoscowMetro::Line::Record...>
 MoscowMetro::Line.find_by_uid("404") #=> nil
+
+MoscowMetro::Line.mcd      #=> Array of lines
+MoscowMetro::Line.mck      #=> Array of lines
+MoscowMetro::Line.metro    #=> Array of lines
+MoscowMetro::Line.monorail #=> Array of lines
 ```
 
 и attribute-readers у экземпляров:
