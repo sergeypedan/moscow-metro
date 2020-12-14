@@ -71,6 +71,20 @@ ul
 gem "moscow_metro"
 ```
 
+## Play / debug
+
+```sh
+gem install moscow_metro
+cd $(bundle info moscow_metro --path) # open the folder where the gem was installed
+bin/console                           # load the gem and Pry
+```
+
+now all gem methods are accessible:
+
+```ruby
+MoscowMetro::Station.all
+```
+
 ## Usage
 
 Предполагается 3 варианта использования этого джема:
