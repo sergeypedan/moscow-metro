@@ -3,7 +3,7 @@
 module MoscowMetro
 	class Line < RecordFromYaml
 
-		COLUMNS = [:color, :name, :open_year, :uid]
+		COLUMNS = [:color, :name, :name_en, :name_prepositional, :open_year, :uid]
 		RECORDS = YAML.load_file(DB_DIR.join("lines.yml"))
 		Record  = Struct.new(*COLUMNS)
 		UIDS = {

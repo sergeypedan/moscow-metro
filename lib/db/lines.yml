@@ -1,114 +1,133 @@
 -
   name: Сокольническая
   name_en: Sokolnicheskaya
+  name_prepositional: Сокольнической
   uid: "1"
   color: "#f91f22"
   open_year: 1935
 -
   name: Замоскворецкая
   name_en: Zamoskvoretskaya
+  name_prepositional: Замоскворецкой
   uid: "2"
   color: "#05ff16"
   open_year: 1938
 -
   name: Арбатско-Покровская
   name_en: Arbatsko-Pokrovskaya
+  name_prepositional: Арбатско-Покровской
   uid: "3"
   color: "#2075b1"
   open_year: 1938
 -
   name: Филёвская
   name_en: Filyovskaya
+  name_prepositional: Филёвской
   uid: "4"
   color: "#52d2f4"
   open_year: 1958
 -
   name: Кольцевая
   name_en: Koltsevaya
+  name_prepositional: Кольцевой
   uid: "5"
   color: "#75573e"
   open_year: 1950
 -
   name: Калужско-Рижская
   name_en: Kaluzhsko-Rizhskaya
+  name_prepositional: Калужско-Рижской
   uid: "6"
   color: "#f6990e"
   open_year: 1958
 -
   name: Таганско-Краснопресненская
   name_en: Tagansko-Krasnopresnenskaya
+  name_prepositional: Таганско-Краснопресненской
   uid: "7"
   color: "#821c71"
   open_year: 1966
 -
   name: Калининская
   name_en: Kalininskaya
+  name_prepositional: Калининской
   uid: "8"
   color: "#efc943"
   open_year: 1979
 -
   name: Солнцевская
   name_en: Solntsevskaya
+  name_prepositional: Солнцевской
   uid: "8A"
   color: "#efc943"
   open_year: 2014
 -
   name: Серпуховско-Тимирязевская
   name_en: Serpukhovsko-Timiryazevskaya
+  name_prepositional: Серпуховско-Тимирязевской
   uid: "9"
   color: "#bdbcbc"
   open_year: 1983
 -
   name: Люблинско-Дмитровская
   name_en: Lyublinsko-Dmitrovskaya
+  name_prepositional: Люблинско-Дмитровской
   uid: "10"
   color: "#b1d87d"
   open_year: 1995
 -
   name: Большая кольцевая
   name_en: Bolshaya Koltsevaya
+  name_prepositional: Большой кольцевой
   uid: "11"
   color: "#a6ded2"
   open_year: 2018
 -
   name: Каховская
-  name_en:
+  name_en: Kakhovskaya
+  name_prepositional: Каховской
   uid: "11A"
   color: "#a6ded2"
   open_year:
 -
   name: Бутовская
   name_en: Butovskaya
+  name_prepositional: Бутовской
   uid: "12"
   color: "#c8bcd2"
   open_year: 2003
 -
   name: Монорельс
   name_en: Monorail
+  name_prepositional: Монорельсе
   uid: "13"
   color: "#0A72B9"
   open_year: 2004
 -
   name: МЦК
   name_en: Moscow Central Circle
+  name_prepositional: МЦК
   uid: "14"
   color: "#ffcec6"
   open_year: 2016
 -
   name: Некрасовская
   name_en: Nekrasovskaya
+  name_prepositional: Некрасовской
   uid: "15"
   color: "#e363b3"
   open_year: 2019
 -
   name: Белорусско-Савёловский диаметр
   name_en: Belorussko-Savyolovsky diameter
+  name_prepositional: Белорусско-Савёловском диаметре
   uid: "D1"
   color: "#ed9f2d"
   open_year: 2019
 -
   name: Калужско-Рижский диаметр
   name_en: Kursko-Rizhsky diameter
+  name_prepositional: Калужско-Рижском диаметре
   uid: "D2"
   color: "#df477c"
   open_year: 2019
