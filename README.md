@@ -61,7 +61,7 @@ ul
 - у всех станций заполнен `name_en`
 - у всех станций заполнен `color`
 - у всех станций заполнен `line_uid`
-- у всех станций заполнен `name_uniq`, и он указывает на существующую линию
+- у всех станций заполнен `name_uniq` + его корректность
 - у всех станции `line_uid` указывает на какую-то конкретную линию
 
 
@@ -169,6 +169,8 @@ end
 
 ## Источники данных
 
+- https://data.mos.ru/classifier/7704786030-stantsii-moskovskogo-metropolitena
+- https://data.gov.ru/opendata/7704786030-moscowsubwaystations
 - https://stroi.mos.ru/metro
 - https://transport.mos.ru
 - https://transport.mos.ru/metro/map
