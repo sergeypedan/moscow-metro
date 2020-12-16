@@ -101,7 +101,7 @@ MoscowMetro::Station.all
 
 Использовать gem в качестве источника данных, не создавая таблиц в своей БД.
 
-Для данных о станциях и линиях есть ActiveModel-подобные классы с методами поиска:
+Для данных о станциях и линиях есть ActiveRecord-подобные классы с методами поиска:
 
 ```ruby
 MoscowMetro::Station.all #=> Array of stations
@@ -144,6 +144,18 @@ station.line_uid    #=> "8"
 station.name        #=> "Авиамоторная"
 station.name_en     #=> "Aviamotornaya" || nil
 station.name_uniq   #=> false || true
+```
+
+и ассоциации:
+
+```ruby
+station = MoscowMetro::Station.all.first #=> #<struct MoscowMetro::Station::Record...>
+station.line  #=> #<struct MoscowMetro::Line::Record ...>
+```
+
+```ruby
+line = MoscowMetro::Line.all.first #=> #<struct MoscowMetro::Line::Record...>
+line.stations  #=> Array
 ```
 
 ### 2. Хранить станции и линии в БД, а gem использовать для валидаций

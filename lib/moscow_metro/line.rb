@@ -5,13 +5,18 @@ module MoscowMetro
 
 		COLUMNS = [:color, :name, :name_en, :name_prepositional, :open_year, :uid]
 		RECORDS = YAML.load_file(DB_DIR.join("lines.yml"))
-		Record  = Struct.new(*COLUMNS)
 		UIDS = {
 			mcd:      %w[D1 D2 D3 D4 D5].freeze,
 			mck:      %w[14].freeze,
 			metro:    %w[1 2 3 4 5 6 7 8 8A 9 10 11 11A 12].freeze,
 			monorail: %w[13].freeze
 		}
+
+		Record = Struct.new(*COLUMNS) do
+			def stations
+				MoscowMetro::Station.at_lines([uid])
+			end
+		end
 
 		def self.all
 			RECORDS.map { |record_data| Record.new(*hash_values(COLUMNS, record_data)) }
