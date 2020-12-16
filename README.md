@@ -136,8 +136,8 @@ line.uid                 #=> "1"
 ```
 
 ```ruby
-station = MoscowMetro::Station.all.first #=> #<struct MoscowMetro::Station::Record...>
-station.coordinates #=> [37.7191, 55.7524] || []
+station = MoscowMetro::Station.first #=> #<struct MoscowMetro::Station::Record...>
+station.coordinates #=> [37.7191, 55.7524] || nil
 station.latitude    #=> 37.7191 || nil
 station.longitude   #=> 55.7524 || nil
 station.line_uid    #=> "8"
@@ -149,7 +149,7 @@ station.name_uniq   #=> false || true
 и ассоциации:
 
 ```ruby
-station = MoscowMetro::Station.all.first #=> #<struct MoscowMetro::Station::Record...>
+station = MoscowMetro::Station.first #=> #<struct MoscowMetro::Station::Record...>
 station.line  #=> #<struct MoscowMetro::Line::Record ...>
 ```
 
