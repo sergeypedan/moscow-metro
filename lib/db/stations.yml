@@ -5,6 +5,8 @@
   line_uid: "8"
   latitude: 37.7191
   longitude: 55.7524
+  works:
+  status_id:
 -
   name: Авиамоторная
   name_en: Aviamotornaya
@@ -12,11 +14,15 @@
   line_uid: "11"
   latitude: 37.718611
   longitude: 55.753055
+  works:
+  status_id:
 -
   name: Авиамоторная
   name_en: Aviamotornaya
   name_uniq: false
   line_uid: "15"
+  works:
+  status_id:
 -
   name: Автозаводская
   name_en: Avtozavodskaya
@@ -24,6 +30,8 @@
   line_uid: "2"
   latitude: 37.6576
   longitude: 55.7074
+  works:
+  status_id:
 -
   name: Автозаводская
   name_en: Avtozavodskaya
@@ -31,6 +39,8 @@
   line_uid: "14"
   latitude: 37.6636
   longitude: 55.7066
+  works:
+  status_id:
 -
   name: Академическая
   name_en: Akademicheskaya
@@ -38,6 +48,8 @@
   line_uid: "6"
   latitude: 37.5733
   longitude: 55.6877
+  works:
+  status_id:
 -
   name: Александровский сад
   name_en: Aleksandrovsky Sad
@@ -45,6 +57,8 @@
   line_uid: "4"
   latitude: 37.6085
   longitude: 55.7525
+  works:
+  status_id:
 -
   name: Алексеевская
   name_en: Alekseyevskaya
@@ -52,6 +66,8 @@
   line_uid: "6"
   latitude: 37.639
   longitude: 55.8088
+  works:
+  status_id:
 -
   name: Алма-Атинская
   name_en: Alma-Atinskaya
@@ -59,6 +75,8 @@
   line_uid: "2"
   latitude: 37.766
   longitude: 55.6326
+  works:
+  status_id:
 -
   name: Алтуфьево
   name_en: Altufyevo
@@ -66,11 +84,15 @@
   line_uid: "9"
   latitude: 37.587
   longitude: 55.898
+  works:
+  status_id:
 -
   name: Аминьевское шоссе
   name_en: Aminyevskoe Shosse
   name_uniq: true
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Андроновка
   name_en: Andronovka
@@ -78,11 +100,15 @@
   line_uid: "14"
   latitude: 37.738
   longitude: 55.7473
+  works:
+  status_id:
 -
   name: Аникеевка
   name_en: Anikeevka
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Аннино
   name_en: Annino
@@ -90,6 +116,8 @@
   line_uid: "9"
   latitude: 37.5966
   longitude: 55.5828
+  works:
+  status_id:
 -
   name: Арбатская
   name_en: Arbatskaya
@@ -97,6 +125,8 @@
   line_uid: "3"
   latitude: 37.6061
   longitude: 55.7522
+  works:
+  status_id:
 -
   name: Арбатская
   name_en: Arbatskaya
@@ -104,6 +134,8 @@
   line_uid: "4"
   latitude: 37.6007
   longitude: 55.7518
+  works:
+  status_id:
 -
   name: Аэропорт
   name_en: Aeroport
@@ -111,6 +143,8 @@
   line_uid: "2"
   latitude: 37.5329
   longitude: 55.8003
+  works:
+  status_id:
 -
   name: Бабушкинская
   name_en: Babushkinskaya
@@ -118,6 +152,8 @@
   line_uid: "6"
   latitude: 37.6644
   longitude: 55.8694
+  works:
+  status_id:
 -
   name: Багратионовская
   name_en: Bagrationovskaya
@@ -125,11 +161,15 @@
   line_uid: "4"
   latitude: 37.4977
   longitude: 55.7438
+  works:
+  status_id:
 -
   name: Баковка
   name_en: Bakovka
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Балтийская
   name_en: Baltiyskaya
@@ -137,6 +177,8 @@
   line_uid: "14"
   latitude: 37.4965
   longitude: 55.8259
+  works:
+  status_id:
 -
   name: Баррикадная
   name_en: Barrikadnaya
@@ -144,6 +186,8 @@
   line_uid: "7"
   latitude: 37.5795
   longitude: 55.7612
+  works:
+  status_id:
 -
   name: Бауманская
   name_en: Baumanskaya
@@ -151,6 +195,8 @@
   line_uid: "3"
   latitude: 37.6806
   longitude: 55.773
+  works:
+  status_id:
 -
   name: Беговая
   name_en: Begovaya
@@ -158,11 +204,15 @@
   line_uid: "7"
   latitude: 37.5468
   longitude: 55.7738
+  works:
+  status_id:
 -
   name: Беговая
   name_en: Begovaya
   name_uniq: false
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Белокаменная
   name_en: Belokamennaya
@@ -170,6 +220,8 @@
   line_uid: "14"
   latitude: 37.7018
   longitude: 55.8298
+  works:
+  status_id:
 -
   name: Беломорская
   name_en: Belomorskaya
@@ -177,6 +229,8 @@
   line_uid: "2"
   latitude: 37.476388
   longitude: 55.865833
+  works:
+  status_id:
 -
   name: Белорусская
   name_en: Belorusskaya
@@ -184,6 +238,8 @@
   line_uid: "2"
   latitude: 37.5835
   longitude: 55.7767
+  works:
+  status_id:
 -
   name: Белорусская
   name_en: Belorusskaya
@@ -191,11 +247,15 @@
   line_uid: "5"
   latitude: 37.5844
   longitude: 55.7764
+  works:
+  status_id:
 -
   name: Белорусская
   name_en: Belorusskaya
   name_uniq: false
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Беляево
   name_en: Belyayevo
@@ -203,11 +263,15 @@
   line_uid: "6"
   latitude: 37.5257
   longitude: 55.6428
+  works:
+  status_id:
 -
   name: Бескудниково
   name_en: Beskudnikovo
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Бибирево
   name_en: Bibirevo
@@ -215,6 +279,8 @@
   line_uid: "9"
   latitude: 37.6034
   longitude: 55.8838
+  works:
+  status_id:
 -
   name: Библиотека им. Ленина
   name_en: Biblioteka Imeni Lenina
@@ -222,11 +288,15 @@
   line_uid: "1"
   latitude: 37.61
   longitude: 55.7512
+  works:
+  status_id:
 -
   name: Битца
   name_en: Bitza
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Битцевский парк
   name_en: Bittsevsky Park
@@ -234,6 +304,8 @@
   line_uid: "12"
   latitude: 37.5562
   longitude: 55.6004
+  works:
+  status_id:
 -
   name: Борисово
   name_en: Borisovo
@@ -241,6 +313,8 @@
   line_uid: "10"
   latitude: 37.7436
   longitude: 55.6334
+  works:
+  status_id:
 -
   name: Боровицкая
   name_en: Borovitskaya
@@ -248,6 +322,8 @@
   line_uid: "9"
   latitude: 37.6072
   longitude: 55.7511
+  works:
+  status_id:
 -
   name: Боровское шоссе
   name_en: Borovskoye Shosse
@@ -255,6 +331,8 @@
   line_uid: "8A"
   latitude: 37.370186
   longitude: 55.647672
+  works:
+  status_id:
 -
   name: Ботанический сад
   name_en: Botanichesky Sad
@@ -262,6 +340,8 @@
   line_uid: "6"
   latitude: 37.6383
   longitude: 55.8449
+  works:
+  status_id:
 -
   name: Ботанический сад
   name_en: Botanichesky Sad
@@ -269,6 +349,8 @@
   line_uid: "14"
   latitude: 37.6383
   longitude: 55.8456
+  works:
+  status_id:
 -
   name: Братиславская
   name_en: Bratislavskaya
@@ -276,6 +358,8 @@
   line_uid: "10"
   latitude: 37.7505
   longitude: 55.6597
+  works:
+  status_id:
 -
   name: Бульвар адмирала Ушакова
   name_en: Bulvar Admirala Ushakova
@@ -283,6 +367,8 @@
   line_uid: "12"
   latitude: 37.543
   longitude: 55.5455
+  works:
+  status_id:
 -
   name: Бульвар Дмитрия Донского
   name_en: Bulvar Dmitriya Donskogo
@@ -290,6 +376,8 @@
   line_uid: "9"
   latitude: 37.5769
   longitude: 55.5693
+  works:
+  status_id:
 -
   name: Бульвар Рокоссовского
   name_en: Bulvar Rokossovskogo
@@ -297,6 +385,8 @@
   line_uid: "1"
   latitude: 37.7342
   longitude: 55.8148
+  works:
+  status_id:
 -
   name: Бульвар Рокоссовского
   name_en: Bulvar Rokossovskogo
@@ -304,6 +394,8 @@
   line_uid: "14"
   latitude: 37.7373
   longitude: 55.8172
+  works:
+  status_id:
 -
   name: Бунинская аллея
   name_en: Buninskaya Alleya
@@ -311,11 +403,15 @@
   line_uid: "12"
   latitude: 37.5158
   longitude: 55.538
+  works:
+  status_id:
 -
   name: Бутово
   name_en: Butovo
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Бутырская
   name_en: Butyrskaya
@@ -323,6 +419,8 @@
   line_uid: "10"
   latitude: 37.602328
   longitude: 55.813577
+  works:
+  status_id:
 -
   name: ВДНХ
   name_en: VDNKh
@@ -330,6 +428,8 @@
   line_uid: "6"
   latitude: 37.6411
   longitude: 55.8211
+  works:
+  status_id:
 -
   name: Варшавская
   name_en: Varshavskaya
@@ -337,11 +437,15 @@
   line_uid: "11"
   latitude: 37.6194
   longitude: 55.6533
+  works:
+  status_id:
 -
   name: Варшавская
   name_en: Varshavskaya
   name_uniq: false
   line_uid: "11A"
+  works:
+  status_id:
 -
   name: Верхние Котлы
   name_en: Verkhniye Kotly
@@ -349,6 +453,8 @@
   line_uid: "14"
   latitude: 37.6193
   longitude: 55.6902
+  works:
+  status_id:
 -
   name: Верхние Лихоборы
   name_en: Verkhniye Likhobory
@@ -356,6 +462,8 @@
   line_uid: "10"
   latitude: 37.561111
   longitude: 55.855833
+  works:
+  status_id:
 -
   name: Владыкино
   name_en: Vladykino
@@ -363,6 +471,8 @@
   line_uid: "9"
   latitude: 37.5899
   longitude: 55.8473
+  works:
+  status_id:
 -
   name: Владыкино
   name_en: Vladykino
@@ -370,11 +480,15 @@
   line_uid: "14"
   latitude: 37.5926
   longitude: 55.8474
+  works:
+  status_id:
 -
   name: Водники
   name_en: Vodniki
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Водный стадион
   name_en: Vodny Stadion
@@ -382,6 +496,8 @@
   line_uid: "2"
   latitude: 37.4867
   longitude: 55.8398
+  works:
+  status_id:
 -
   name: Войковская
   name_en: Voykovskaya
@@ -389,6 +505,8 @@
   line_uid: "2"
   latitude: 37.498
   longitude: 55.819
+  works:
+  status_id:
 -
   name: Волгоградский проспект
   name_en: Volgogradsky Prospekt
@@ -396,6 +514,8 @@
   line_uid: "7"
   latitude: 37.6869
   longitude: 55.7253
+  works:
+  status_id:
 -
   name: Волжская
   name_en: Volzhskaya
@@ -403,6 +523,8 @@
   line_uid: "10"
   latitude: 37.753
   longitude: 55.6909
+  works:
+  status_id:
 -
   name: Волоколамская
   name_en: Volokolamskaya
@@ -410,11 +532,15 @@
   line_uid: "3"
   latitude: 37.3822
   longitude: 55.8354
+  works:
+  status_id:
 -
   name: Волоколамская
   name_en: Volokolamskaya
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Воробьёвы горы
   name_en: Vorobyovy Gory
@@ -422,6 +548,8 @@
   line_uid: "1"
   latitude: 37.5592
   longitude: 55.7103
+  works:
+  status_id:
 -
   name: Выставочная
   name_en: Vystavochnaya
@@ -429,6 +557,8 @@
   line_uid: "4"
   latitude: 37.5408
   longitude: 55.7502
+  works:
+  status_id:
 -
   name: Выставочный центр
   name_en: Vystavochny Tsentr
@@ -436,6 +566,8 @@
   line_uid: "13"
   latitude: 37.6383
   longitude: 55.824
+  works:
+  status_id:
 -
   name: Выхино
   name_en: Vykhino
@@ -443,6 +575,8 @@
   line_uid: "7"
   latitude: 37.8181
   longitude: 55.7156
+  works:
+  status_id:
 -
   name: Говорово
   name_en: Govorovo
@@ -450,21 +584,29 @@
   line_uid: "8A"
   latitude: 37.417392
   longitude: 55.659531
+  works:
+  status_id:
 -
   name: Гражданская
   name_en: grazhdanskaya
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Давыдково
   name_en: Davydkovo
   name_uniq: true
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Дегунино
   name_en: Degunino
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Деловой центр
   name_en: Delovoy Tsentr
@@ -472,6 +614,8 @@
   line_uid: "11"
   latitude: 37.5391
   longitude: 55.7489
+  works:
+  status_id:
 -
   name: Деловой центр
   name_en: Delovoy Tsentr
@@ -479,11 +623,15 @@
   line_uid: "14"
   latitude: 37.532
   longitude: 55.7476
+  works:
+  status_id:
 -
   name: Депо
   name_en: Depo
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Динамо
   name_en: Dinamo
@@ -491,6 +639,8 @@
   line_uid: "2"
   latitude: 37.558
   longitude: 55.7897
+  works:
+  status_id:
 -
   name: Дмитровская
   name_en: Dmitrovskaya
@@ -498,16 +648,22 @@
   line_uid: "9"
   latitude: 37.5817
   longitude: 55.8069
+  works:
+  status_id:
 -
   name: Дмитровская
   name_en: Dmitrovskaya
   name_uniq: false
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Дмитровская
   name_en: Dmitrovskaya
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Добрынинская
   name_en: Dobryninskaya
@@ -515,11 +671,15 @@
   line_uid: "5"
   latitude: 37.6243
   longitude: 55.7291
+  works:
+  status_id:
 -
   name: Долгопрудная
   name_en: Dolgoprudnaya
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Домодедовская
   name_en: Domodedovskaya
@@ -527,6 +687,8 @@
   line_uid: "2"
   latitude: 37.7186
   longitude: 55.6108
+  works:
+  status_id:
 -
   name: Достоевская
   name_en: Dostoyevskaya
@@ -534,6 +696,8 @@
   line_uid: "10"
   latitude: 37.6151
   longitude: 55.7816
+  works:
+  status_id:
 -
   name: Дубровка
   name_en: Dubrovka
@@ -541,6 +705,8 @@
   line_uid: "10"
   latitude: 37.676
   longitude: 55.7186
+  works:
+  status_id:
 -
   name: Дубровка
   name_en: Dubrovka
@@ -548,6 +714,8 @@
   line_uid: "14"
   latitude: 37.6781
   longitude: 55.7127
+  works:
+  status_id:
 -
   name: Жулебино
   name_en: Zhulebino
@@ -555,6 +723,8 @@
   line_uid: "7"
   latitude: 37.8563
   longitude: 55.6855
+  works:
+  status_id:
 -
   name: ЗИЛ
   name_en: ZIL
@@ -562,6 +732,8 @@
   line_uid: "14"
   latitude: 37.6483
   longitude: 55.6983
+  works:
+  status_id:
 -
   name: Зорге
   name_en: Zorge
@@ -569,11 +741,15 @@
   line_uid: "14"
   latitude: 37.5045
   longitude: 55.7878
+  works:
+  status_id:
 -
   name: Зюзино
   name_en: Ziuzino
   name_uniq: true
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Зябликово
   name_en: Zyablikovo
@@ -581,6 +757,8 @@
   line_uid: "10"
   latitude: 37.7453
   longitude: 55.6124
+  works:
+  status_id:
 -
   name: Измайлово
   name_en: Izmaylovo
@@ -588,6 +766,8 @@
   line_uid: "14"
   latitude: 37.7434
   longitude: 55.7896
+  works:
+  status_id:
 -
   name: Измайловская
   name_en: Izmaylovskaya
@@ -595,21 +775,29 @@
   line_uid: "3"
   latitude: 37.7814
   longitude: 55.7878
+  works:
+  status_id:
 -
   name: Илимская
   name_en: Ilimskaya
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Каланчёвская
   name_en: Kalanchevskaya
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Калитники
   name_en: Kalitniki
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Калужская
   name_en: Kaluzhskaya
@@ -617,6 +805,8 @@
   line_uid: "6"
   latitude: 37.5455
   longitude: 55.6584
+  works:
+  status_id:
 -
   name: Калужская
   name_en: Kaluzhskaya
@@ -624,6 +814,8 @@
   line_uid: "11"
   latitude: 37.5405
   longitude: 55.6571
+  works:
+  status_id:
 -
   name: Кантемировская
   name_en: Kantemirovskaya
@@ -631,11 +823,15 @@
   line_uid: "2"
   latitude: 37.6564
   longitude: 55.6358
+  works:
+  status_id:
 -
   name: Карамышево
   name_en: Karamyshevo
   name_uniq: true
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Каховская
   name_en: Kakhovskaya
@@ -643,6 +839,8 @@
   line_uid: "11"
   latitude: 37.5983
   longitude: 55.653
+  works:
+  status_id:
 -
   name: Каширская
   name_en: Kashirskaya
@@ -650,11 +848,15 @@
   line_uid: "2"
   latitude: 37.6487
   longitude: 55.6551
+  works:
+  status_id:
 -
   name: Каширская
   name_en: Kashirskaya
   name_uniq: false
   line_uid: "11A"
+  works:
+  status_id:
 -
   name: Киевская
   name_en: Kiyevskaya
@@ -662,6 +864,8 @@
   line_uid: "3"
   latitude: 37.5645
   longitude: 55.7442
+  works:
+  status_id:
 -
   name: Киевская
   name_en: Kiyevskaya
@@ -669,6 +873,8 @@
   line_uid: "4"
   latitude: 37.5655
   longitude: 55.7436
+  works:
+  status_id:
 -
   name: Киевская
   name_en: Kiyevskaya
@@ -676,6 +882,8 @@
   line_uid: "5"
   latitude: 37.5644
   longitude: 55.7446
+  works:
+  status_id:
 -
   name: Китай-город
   name_en: Kitay-gorod
@@ -683,16 +891,22 @@
   line_uid: "6"
   latitude: 37.6333
   longitude: 55.7553
+  works:
+  status_id:
 -
   name: Китай-город
   name_en: Kitay-gorod
   name_uniq: false
   line_uid: "7"
+  works:
+  status_id:
 -
   name: Кленовый бульвар
   name_en: Klenoviy Bulvar
   name_uniq: true
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Кожуховская
   name_en: Kozhukhovskaya
@@ -700,6 +914,8 @@
   line_uid: "10"
   latitude: 37.6851
   longitude: 55.7074
+  works:
+  status_id:
 -
   name: Коломенская
   name_en: Kolomenskaya
@@ -707,6 +923,8 @@
   line_uid: "2"
   latitude: 37.6638
   longitude: 55.6785
+  works:
+  status_id:
 -
   name: Коммунарка
   name_en: Kommunarka
@@ -714,6 +932,8 @@
   line_uid: "1"
   latitude: 37.4696
   longitude: 55.5605
+  works:
+  status_id:
 -
   name: Комсомольская
   name_en: Komsomolskaya
@@ -721,6 +941,8 @@
   line_uid: "1"
   latitude: 37.6562
   longitude: 55.7753
+  works:
+  status_id:
 -
   name: Комсомольская
   name_en: Komsomolskaya
@@ -728,6 +950,8 @@
   line_uid: "5"
   latitude: 37.6549
   longitude: 55.7748
+  works:
+  status_id:
 -
   name: Коньково
   name_en: Konkovo
@@ -735,6 +959,8 @@
   line_uid: "6"
   latitude: 37.5188
   longitude: 55.6333
+  works:
+  status_id:
 -
   name: Коптево
   name_en: Koptevo
@@ -742,6 +968,8 @@
   line_uid: "14"
   latitude: 37.5203
   longitude: 55.8397
+  works:
+  status_id:
 -
   name: Косино
   name_en: Kosino
@@ -749,6 +977,8 @@
   line_uid: "15"
   latitude: 37.847777
   longitude: 55.704166
+  works:
+  status_id:
 -
   name: Котельники
   name_en: Kotelniki
@@ -756,11 +986,15 @@
   line_uid: "7"
   latitude: 37.8582
   longitude: 55.6743
+  works:
+  status_id:
 -
   name: Котляково
   name_en: Kotlayakovo
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Красногвардейская
   name_en: Krasnogvardeyskaya
@@ -768,11 +1002,15 @@
   line_uid: "2"
   latitude: 37.7444
   longitude: 55.6137
+  works:
+  status_id:
 -
   name: Красногорская
   name_en: Krasnogorskaya
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Краснопресненская
   name_en: Krasnopresnenskaya
@@ -780,6 +1018,8 @@
   line_uid: "5"
   latitude: 37.5774
   longitude: 55.7613
+  works:
+  status_id:
 -
   name: Красносельская
   name_en: Krasnoselskaya
@@ -787,6 +1027,8 @@
   line_uid: "1"
   latitude: 37.6673
   longitude: 55.7801
+  works:
+  status_id:
 -
   name: Красные ворота
   name_en: Krasnye Vorota
@@ -794,16 +1036,22 @@
   line_uid: "1"
   latitude: 37.6487
   longitude: 55.769
+  works:
+  status_id:
 -
   name: Красный балтиец
   name_en: Krasniy Baltiets
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Красный строитель
   name_en: Krasniy Stroitel
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Крестьянская застава
   name_en: Krestyanskaya Zastava
@@ -811,6 +1059,8 @@
   line_uid: "10"
   latitude: 37.6673
   longitude: 55.7331
+  works:
+  status_id:
 -
   name: Кропоткинская
   name_en: Kropotkinskaya
@@ -818,6 +1068,8 @@
   line_uid: "1"
   latitude: 37.6037
   longitude: 55.7453
+  works:
+  status_id:
 -
   name: Крылатское
   name_en: Krylatskoye
@@ -825,6 +1077,8 @@
   line_uid: "3"
   latitude: 37.4081
   longitude: 55.7567
+  works:
+  status_id:
 -
   name: Крымская
   name_en: Krymskaya
@@ -832,11 +1086,15 @@
   line_uid: "14"
   latitude: 37.6042
   longitude: 55.6904
+  works:
+  status_id:
 -
   name: Кубанская
   name_en: Kubanskaya
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Кузнецкий мост
   name_en: Kuznetsky Most
@@ -844,6 +1102,8 @@
   line_uid: "7"
   latitude: 37.6259
   longitude: 55.7606
+  works:
+  status_id:
 -
   name: Кузьминки
   name_en: Kuzminki
@@ -851,11 +1111,15 @@
   line_uid: "7"
   latitude: 37.7656
   longitude: 55.7056
+  works:
+  status_id:
 -
   name: Кунцевская
   name_en: Kuntsevskaya
   name_uniq: false
   line_uid: "3"
+  works:
+  status_id:
 -
   name: Кунцевская
   name_en: Kuntsevskaya
@@ -863,16 +1127,22 @@
   line_uid: "4"
   latitude: 37.4459
   longitude: 55.7307
+  works:
+  status_id:
 -
   name: Кунцевская
   name_en: Kuntsevskaya
   name_uniq: false
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Кунцевская
   name_en: Kuntsevskaya
   name_uniq: false
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Курская
   name_en: Kurskaya
@@ -880,6 +1150,8 @@
   line_uid: "3"
   latitude: 37.6577
   longitude: 55.7576
+  works:
+  status_id:
 -
   name: Курская
   name_en: Kurskaya
@@ -887,16 +1159,22 @@
   line_uid: "5"
   latitude: 37.6595
   longitude: 55.757
+  works:
+  status_id:
 -
   name: Курская
   name_en: Kurskaya
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Курьяново
   name_en: Kuryanovo
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Кутузовская
   name_en: Kutuzovskaya
@@ -904,6 +1182,8 @@
   line_uid: "4"
   latitude: 37.5344
   longitude: 55.7399
+  works:
+  status_id:
 -
   name: Кутузовская
   name_en: Kutuzovskaya
@@ -911,6 +1191,8 @@
   line_uid: "14"
   latitude: 37.5344
   longitude: 55.7396
+  works:
+  status_id:
 -
   name: Ленинский проспект
   name_en: Leninsky Prospekt
@@ -918,6 +1200,8 @@
   line_uid: "6"
   latitude: 37.5861
   longitude: 55.7077
+  works:
+  status_id:
 -
   name: Лермонтовский проспект
   name_en: Lermontovsky Prospekt
@@ -925,6 +1209,8 @@
   line_uid: "7"
   latitude: 37.8525
   longitude: 55.7013
+  works:
+  status_id:
 -
   name: Лесопарковая
   name_en: Lesoparkovaya
@@ -932,6 +1218,8 @@
   line_uid: "12"
   latitude: 37.5769
   longitude: 55.5821
+  works:
+  status_id:
 -
   name: Лефортово
   name_en: Lefortovo
@@ -939,16 +1227,22 @@
   line_uid: "11"
   latitude: 37.702777
   longitude: 55.764444
+  works:
+  status_id:
 -
   name: Лефортово
   name_en: Lefortovo
   name_uniq: false
   line_uid: "15"
+  works:
+  status_id:
 -
   name: Лианозово
   name_en: Lianozovo
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Лихоборы
   name_en: Likhobory
@@ -956,11 +1250,15 @@
   line_uid: "14"
   latitude: 37.5511
   longitude: 55.8472
+  works:
+  status_id:
 -
   name: Лобня
   name_en: Lobnya
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Локомотив
   name_en: Lokomotiv
@@ -968,6 +1266,8 @@
   line_uid: "14"
   latitude: 37.7459
   longitude: 55.8039
+  works:
+  status_id:
 -
   name: Ломоносовский проспект
   name_en: Lomonosovsky Prospekt
@@ -975,6 +1275,8 @@
   line_uid: "8A"
   latitude: 37.5156
   longitude: 55.7069
+  works:
+  status_id:
 -
   name: Лубянка
   name_en: Lubyanka
@@ -982,6 +1284,8 @@
   line_uid: "1"
   latitude: 37.6272
   longitude: 55.7597
+  works:
+  status_id:
 -
   name: Лужники
   name_en: Luzhniki
@@ -989,6 +1293,8 @@
   line_uid: "14"
   latitude: 37.5605
   longitude: 55.721
+  works:
+  status_id:
 -
   name: Лухмановская
   name_en: Lukhmanovskaya
@@ -996,6 +1302,8 @@
   line_uid: "15"
   latitude: 37.9004
   longitude: 55.7085
+  works:
+  status_id:
 -
   name: Люблино
   name_en: Lyublino
@@ -1003,11 +1311,15 @@
   line_uid: "10"
   latitude: 37.7618
   longitude: 55.6758
+  works:
+  status_id:
 -
   name: Марк
   name_en: Mark
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Марксистская
   name_en: Marksistskaya
@@ -1015,16 +1327,22 @@
   line_uid: "8"
   latitude: 37.6543
   longitude: 55.7411
+  works:
+  status_id:
 -
   name: Марьина Роща
   name_en: Maryina Roshcha
   name_uniq: false
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Марьина Роща
   name_en: Maryina Roshcha
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Марьина Роща
   name_en: Maryina Roshcha
@@ -1032,6 +1350,8 @@
   line_uid: "10"
   latitude: 37.6162
   longitude: 55.7954
+  works:
+  status_id:
 -
   name: Марьино
   name_en: Maryino
@@ -1039,6 +1359,8 @@
   line_uid: "10"
   latitude: 37.7431
   longitude: 55.65
+  works:
+  status_id:
 -
   name: Маяковская
   name_en: Mayakovskaya
@@ -1046,6 +1368,8 @@
   line_uid: "2"
   latitude: 37.5958
   longitude: 55.7701
+  works:
+  status_id:
 -
   name: Медведково
   name_en: Medvedkovo
@@ -1053,6 +1377,8 @@
   line_uid: "6"
   latitude: 37.6613
   longitude: 55.8872
+  works:
+  status_id:
 -
   name: Международная
   name_en: Mezhdunarodnaya
@@ -1060,6 +1386,8 @@
   line_uid: "4"
   latitude: 37.5339
   longitude: 55.7483
+  works:
+  status_id:
 -
   name: Менделеевская
   name_en: Mendeleyevskaya
@@ -1067,6 +1395,8 @@
   line_uid: "9"
   latitude: 37.6011
   longitude: 55.781
+  works:
+  status_id:
 -
   name: Минская
   name_en: Minskaya
@@ -1074,6 +1404,8 @@
   line_uid: "8A"
   latitude: 37.497
   longitude: 55.7246
+  works:
+  status_id:
 -
   name: Митино
   name_en: Mitino
@@ -1081,6 +1413,8 @@
   line_uid: "3"
   latitude: 37.3622
   longitude: 55.8457
+  works:
+  status_id:
 -
   name: Мичуринский проспект
   name_en: Michurinsky Prospekt
@@ -1088,16 +1422,22 @@
   line_uid: "8A"
   latitude: 37.485
   longitude: 55.689444
+  works:
+  status_id:
 -
   name: Мичуринский проспект
   name_en: Michurinsky Prospekt
   name_uniq: false
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Мнёвники
   name_en: Mnevniki
   name_uniq: true
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Молодёжная
   name_en: Molodyozhnaya
@@ -1105,16 +1445,22 @@
   line_uid: "3"
   latitude: 37.4168
   longitude: 55.7408
+  works:
+  status_id:
 -
   name: Москва Товарная
   name_en: Moskva Tovarnaya
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Москворечье
   name_en: Moskvorechye
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Мякинино
   name_en: Myakinino
@@ -1122,6 +1468,8 @@
   line_uid: "3"
   latitude: 37.3852
   longitude: 55.8252
+  works:
+  status_id:
 -
   name: Нагатинская
   name_en: Nagatinskaya
@@ -1129,11 +1477,15 @@
   line_uid: "9"
   latitude: 37.6224
   longitude: 55.683
+  works:
+  status_id:
 -
   name: Нагатинский затон
   name_en: Nagatinskiy Zaton
   name_uniq: true
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Нагорная
   name_en: Nagornaya
@@ -1141,11 +1493,15 @@
   line_uid: "9"
   latitude: 37.6104
   longitude: 55.6724
+  works:
+  status_id:
 -
   name: Нахабино
   name_en: Nakhabino
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Нахимовский проспект
   name_en: Nakhimovsky Prospekt
@@ -1153,6 +1509,8 @@
   line_uid: "9"
   latitude: 37.6055
   longitude: 55.6627
+  works:
+  status_id:
 -
   name: Некрасовка
   name_en: Nekrasovka
@@ -1160,11 +1518,15 @@
   line_uid: "15"
   latitude: 37.926388
   longitude: 55.703611
+  works:
+  status_id:
 -
   name: Немчиновка
   name_en: Nemchinovka
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Нижегородская
   name_en: Nizhegorodskaya
@@ -1172,6 +1534,8 @@
   line_uid: "11"
   latitude: 37.728611
   longitude: 55.7325
+  works:
+  status_id:
 -
   name: Нижегородская
   name_en: Nizhegorodskaya
@@ -1179,11 +1543,15 @@
   line_uid: "14"
   latitude: 37.7281
   longitude: 55.7321
+  works:
+  status_id:
 -
   name: Нижегородская
   name_en: Nizhegorodskaya
   name_uniq: false
   line_uid: "15"
+  works:
+  status_id:
 -
   name: Новогиреево
   name_en: Novogireyevo
@@ -1191,11 +1559,15 @@
   line_uid: "8"
   latitude: 37.8166
   longitude: 55.7517
+  works:
+  status_id:
 -
   name: Новодачная
   name_en: Novodachnaya
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Новокосино
   name_en: Novokosino
@@ -1203,6 +1575,8 @@
   line_uid: "8"
   latitude: 37.8638
   longitude: 55.7451
+  works:
+  status_id:
 -
   name: Новокузнецкая
   name_en: Novokuznetskaya
@@ -1210,6 +1584,8 @@
   line_uid: "2"
   latitude: 37.6295
   longitude: 55.7415
+  works:
+  status_id:
 -
   name: Новопеределкино
   name_en: Novoperedelkino
@@ -1217,6 +1593,8 @@
   line_uid: "8A"
   latitude: 37.3552
   longitude: 55.6396
+  works:
+  status_id:
 -
   name: Новослободская
   name_en: Novoslobodskaya
@@ -1224,6 +1602,8 @@
   line_uid: "5"
   latitude: 37.6028
   longitude: 55.7799
+  works:
+  status_id:
 -
   name: Новохохловская
   name_en: Novokhokhlovskaya
@@ -1231,11 +1611,15 @@
   line_uid: "14"
   latitude: 37.7173
   longitude: 55.7243
+  works:
+  status_id:
 -
   name: Новохохловская
   name_en: Novokhokhlovskaya
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Новоясеневская
   name_en: Novoyasenevskaya
@@ -1243,6 +1627,8 @@
   line_uid: "6"
   latitude: 37.5541
   longitude: 55.601
+  works:
+  status_id:
 -
   name: Новые Черёмушки
   name_en: Novye Cheryomushki
@@ -1250,11 +1636,15 @@
   line_uid: "6"
   latitude: 37.5544
   longitude: 55.6702
+  works:
+  status_id:
 -
   name: Одинцово
   name_en: Odintsovo
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Озёрная
   name_en: Ozyornaya
@@ -1262,6 +1652,8 @@
   line_uid: "8A"
   latitude: 37.449525
   longitude: 55.670448
+  works:
+  status_id:
 -
   name: Окружная
   name_en: Okruzhnaya
@@ -1269,6 +1661,8 @@
   line_uid: "10"
   latitude: 37.57425
   longitude: 55.846
+  works:
+  status_id:
 -
   name: Окружная
   name_en: Okruzhnaya
@@ -1276,11 +1670,15 @@
   line_uid: "14"
   latitude: 37.5711
   longitude: 55.8489
+  works:
+  status_id:
 -
   name: Окружная
   name_en: Okruzhnaya
   name_uniq: false
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Окская
   name_en: Okskaya
@@ -1288,6 +1686,8 @@
   line_uid: "15"
   latitude: 37.781666
   longitude: 55.718611
+  works:
+  status_id:
 -
   name: Октябрьская
   name_en: Oktyabrskaya
@@ -1295,6 +1695,8 @@
   line_uid: "5"
   latitude: 37.6091
   longitude: 55.7297
+  works:
+  status_id:
 -
   name: Октябрьская
   name_en: Oktyabrskaya
@@ -1302,6 +1704,8 @@
   line_uid: "6"
   latitude: 37.6112
   longitude: 55.7306
+  works:
+  status_id:
 -
   name: Октябрьское поле
   name_en: Oktyabrskoye Polye
@@ -1309,16 +1713,22 @@
   line_uid: "7"
   latitude: 37.4935
   longitude: 55.7935
+  works:
+  status_id:
 -
   name: Ольховая
   name_en: Olkhovaya
   name_uniq: true
   line_uid: "1"
+  works:
+  status_id:
 -
   name: Опалиха
   name_en: Opalikha
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Орехово
   name_en: Orekhovo
@@ -1326,11 +1736,15 @@
   line_uid: "2"
   latitude: 37.6949
   longitude: 55.6132
+  works:
+  status_id:
 -
   name: Остафьево
   name_en: Ostafievo
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Отрадное
   name_en: Otradnoye
@@ -1338,6 +1752,8 @@
   line_uid: "9"
   latitude: 37.6047
   longitude: 55.8633
+  works:
+  status_id:
 -
   name: Охотный Ряд
   name_en: Okhotny Ryad
@@ -1345,6 +1761,8 @@
   line_uid: "1"
   latitude: 37.6166
   longitude: 55.7577
+  works:
+  status_id:
 -
   name: Павелецкая
   name_en: Paveletskaya
@@ -1352,6 +1770,8 @@
   line_uid: "2"
   latitude: 37.6377
   longitude: 55.7305
+  works:
+  status_id:
 -
   name: Павелецкая
   name_en: Paveletskaya
@@ -1359,11 +1779,15 @@
   line_uid: "5"
   latitude: 37.6379
   longitude: 55.7318
+  works:
+  status_id:
 -
   name: Павшино
   name_en: Pavshino
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Панфиловская
   name_en: Panfilovskaya
@@ -1371,6 +1795,8 @@
   line_uid: "14"
   latitude: 37.4988
   longitude: 55.7991
+  works:
+  status_id:
 -
   name: Парк Победы
   name_en: Park Pobedy
@@ -1378,11 +1804,15 @@
   line_uid: "3"
   latitude: 37.5182
   longitude: 55.7362
+  works:
+  status_id:
 -
   name: Парк Победы
   name_en: Park Pobedy
   name_uniq: false
   line_uid: "8A"
+  works:
+  status_id:
 -
   name: Парк культуры
   name_en: Park Kultury
@@ -1390,6 +1820,8 @@
   line_uid: "1"
   latitude: 37.5943
   longitude: 55.7356
+  works:
+  status_id:
 -
   name: Парк культуры
   name_en: Park Kultury
@@ -1397,6 +1829,8 @@
   line_uid: "5"
   latitude: 37.5915
   longitude: 55.7357
+  works:
+  status_id:
 -
   name: Партизанская
   name_en: Partizanskaya
@@ -1404,11 +1838,15 @@
   line_uid: "3"
   latitude: 37.7506
   longitude: 55.7886
+  works:
+  status_id:
 -
   name: Пенягино
   name_en: Penyagino
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Первомайская
   name_en: Pervomayskaya
@@ -1416,11 +1854,15 @@
   line_uid: "3"
   latitude: 37.7993
   longitude: 55.7948
+  works:
+  status_id:
 -
   name: Перерва
   name_en: Pererva
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Перово
   name_en: Perovo
@@ -1428,6 +1870,8 @@
   line_uid: "8"
   latitude: 37.7866
   longitude: 55.7511
+  works:
+  status_id:
 -
   name: Петровский парк
   name_en: Petrovsky Park
@@ -1435,6 +1879,8 @@
   line_uid: "8A"
   latitude: 37.5578
   longitude: 55.7925
+  works:
+  status_id:
 -
   name: Петровский парк
   name_en: Petrovsky Park
@@ -1442,6 +1888,8 @@
   line_uid: "11"
   latitude: 37.5571
   longitude: 55.7918
+  works:
+  status_id:
 -
   name: Петровско-Разумовская
   name_en: Petrovsko-Razumovskaya
@@ -1449,16 +1897,22 @@
   line_uid: "9"
   latitude: 37.5745
   longitude: 55.8351
+  works:
+  status_id:
 -
   name: Петровско-Разумовская
   name_en: Petrovsko-Razumovskaya
   name_uniq: false
   line_uid: "10"
+  works:
+  status_id:
 -
   name: Петровско-Разумовская
   name_en: Petrovsko-Razumovskaya
   name_uniq: false
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Печатники
   name_en: Pechatniki
@@ -1466,16 +1920,22 @@
   line_uid: "10"
   latitude: 37.727
   longitude: 55.6934
+  works:
+  status_id:
 -
   name: Печатники
   name_en: Pechatniki
   name_uniq: false
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Печатники
   name_en: Pechatniki
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Пионерская
   name_en: Pionerskaya
@@ -1483,6 +1943,8 @@
   line_uid: "4"
   latitude: 37.4671
   longitude: 55.736
+  works:
+  status_id:
 -
   name: Планерная
   name_en: Planernaya
@@ -1490,6 +1952,8 @@
   line_uid: "7"
   latitude: 37.4364
   longitude: 55.8607
+  works:
+  status_id:
 -
   name: Площадь Гагарина
   name_en: Ploshchad Gagarina
@@ -1497,6 +1961,8 @@
   line_uid: "14"
   latitude: 37.5858
   longitude: 55.7071
+  works:
+  status_id:
 -
   name: Площадь Ильича
   name_en: Ploshchad Ilyicha
@@ -1504,6 +1970,8 @@
   line_uid: "8"
   latitude: 37.6824
   longitude: 55.7472
+  works:
+  status_id:
 -
   name: Площадь Революции
   name_en: Ploshchad Revolyutsii
@@ -1511,21 +1979,29 @@
   line_uid: "3"
   latitude: 37.6216
   longitude: 55.7566
+  works:
+  status_id:
 -
   name: Подольск
   name_en: Podolsk
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Покровское
   name_en: Pokrovskoye
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Покровское-Стрешнево
   name_en: Pokrovskoye-Streshnevo
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Полежаевская
   name_en: Polezhayevskaya
@@ -1533,6 +2009,8 @@
   line_uid: "7"
   latitude: 37.5192
   longitude: 55.7775
+  works:
+  status_id:
 -
   name: Полянка
   name_en: Polyanka
@@ -1540,6 +2018,8 @@
   line_uid: "9"
   latitude: 37.618
   longitude: 55.7379
+  works:
+  status_id:
 -
   name: Пражская
   name_en: Prazhskaya
@@ -1547,6 +2027,8 @@
   line_uid: "9"
   latitude: 37.6044
   longitude: 55.6124
+  works:
+  status_id:
 -
   name: Преображенская площадь
   name_en: Preobrazhenskaya Ploshchad
@@ -1554,11 +2036,15 @@
   line_uid: "1"
   latitude: 37.7151
   longitude: 55.7963
+  works:
+  status_id:
 -
   name: Прокшино
   name_en: Prokshino
   name_uniq: true
   line_uid: "1"
+  works:
+  status_id:
 -
   name: Пролетарская
   name_en: Proletarskaya
@@ -1566,6 +2052,8 @@
   line_uid: "7"
   latitude: 37.6659
   longitude: 55.7319
+  works:
+  status_id:
 -
   name: Проспект Вернадского
   name_en: Prospekt Vernadskogo
@@ -1573,11 +2061,15 @@
   line_uid: "1"
   latitude: 37.506
   longitude: 55.6771
+  works:
+  status_id:
 -
   name: Проспект Вернадского
   name_en: Prospekt Vernadskogo
   name_uniq: false
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Проспект Мира
   name_en: Prospekt Mira
@@ -1585,6 +2077,8 @@
   line_uid: "5"
   latitude: 37.6318
   longitude: 55.7798
+  works:
+  status_id:
 -
   name: Проспект Мира
   name_en: Prospekt Mira
@@ -1592,6 +2086,8 @@
   line_uid: "6"
   latitude: 37.6318
   longitude: 55.7812
+  works:
+  status_id:
 -
   name: Профсоюзная
   name_en: Profsoyuznaya
@@ -1599,6 +2095,8 @@
   line_uid: "6"
   latitude: 37.5627
   longitude: 55.678
+  works:
+  status_id:
 -
   name: Пушкинская
   name_en: Pushkinskaya
@@ -1606,6 +2104,8 @@
   line_uid: "7"
   latitude: 37.6079
   longitude: 55.765
+  works:
+  status_id:
 -
   name: Пятницкое шоссе
   name_en: Pyatnitskoye Shosse
@@ -1613,11 +2113,15 @@
   line_uid: "3"
   latitude: 37.3544
   longitude: 55.8563
+  works:
+  status_id:
 -
   name: Рабочий поселок
   name_en: Rabochiy Posyolok
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Раменки
   name_en: Ramenki
@@ -1625,6 +2129,8 @@
   line_uid: "8A"
   latitude: 37.4984
   longitude: 55.6975
+  works:
+  status_id:
 -
   name: Рассказовка
   name_en: Rasskazovka
@@ -1632,6 +2138,8 @@
   line_uid: "8A"
   latitude: 37.3347
   longitude: 55.6339
+  works:
+  status_id:
 -
   name: Речной вокзал
   name_en: Rechnoy Vokzal
@@ -1639,6 +2147,8 @@
   line_uid: "2"
   latitude: 37.4761
   longitude: 55.8549
+  works:
+  status_id:
 -
   name: Рижская
   name_en: Rizhskaya
@@ -1646,16 +2156,22 @@
   line_uid: "6"
   latitude: 37.6362
   longitude: 55.7936
+  works:
+  status_id:
 -
   name: Рижская
   name_en: Rizhskaya
   name_uniq: false
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Рижская
   name_en: Rizhskaya
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Римская
   name_en: Rimskaya
@@ -1663,6 +2179,8 @@
   line_uid: "10"
   latitude: 37.6819
   longitude: 55.7463
+  works:
+  status_id:
 -
   name: Ростокино
   name_en: Rostokino
@@ -1670,6 +2188,8 @@
   line_uid: "14"
   latitude: 37.6676
   longitude: 55.8395
+  works:
+  status_id:
 -
   name: Румянцево
   name_en: Rumyantsevo
@@ -1677,6 +2197,8 @@
   line_uid: "1"
   latitude: 37.4419
   longitude: 55.633
+  works:
+  status_id:
 -
   name: Рязанский проспект
   name_en: Ryazansky Prospekt
@@ -1684,11 +2206,15 @@
   line_uid: "7"
   latitude: 37.7933
   longitude: 55.717
+  works:
+  status_id:
 -
   name: Савёловская
   name_en: Savyolovskaya
   name_uniq: false
   line_uid: "8A"
+  works:
+  status_id:
 -
   name: Савёловская
   name_en: Savyolovskaya
@@ -1696,6 +2222,8 @@
   line_uid: "9"
   latitude: 37.5885
   longitude: 55.7927
+  works:
+  status_id:
 -
   name: Савёловская
   name_en: Savyolovskaya
@@ -1703,11 +2231,15 @@
   line_uid: "11"
   latitude: 37.587
   longitude: 55.7934
+  works:
+  status_id:
 -
   name: Савёловская
   name_en: Savyolovskaya
   name_uniq: false
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Саларьево
   name_en: Salaryevo
@@ -1715,6 +2247,8 @@
   line_uid: "1"
   latitude: 37.424
   longitude: 55.6227
+  works:
+  status_id:
 -
   name: Свиблово
   name_en: Sviblovo
@@ -1722,6 +2256,8 @@
   line_uid: "6"
   latitude: 37.6527
   longitude: 55.8552
+  works:
+  status_id:
 -
   name: Севастопольская
   name_en: Sevastopolskaya
@@ -1729,6 +2265,8 @@
   line_uid: "9"
   latitude: 37.5984
   longitude: 55.6524
+  works:
+  status_id:
 -
   name: Селигерская
   name_en: Seligerskaya
@@ -1736,6 +2274,8 @@
   line_uid: "10"
   latitude: 37.548333
   longitude: 55.865
+  works:
+  status_id:
 -
   name: Семёновская
   name_en: Semyonovskaya
@@ -1743,6 +2283,8 @@
   line_uid: "3"
   latitude: 37.7208
   longitude: 55.7833
+  works:
+  status_id:
 -
   name: Серпуховская
   name_en: Serpukhovskaya
@@ -1750,21 +2292,29 @@
   line_uid: "9"
   latitude: 37.6246
   longitude: 55.728
+  works:
+  status_id:
 -
   name: Сетунь
   name_en: Setun
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Силикатная
   name_en: Silikatnaya
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Сколково
   name_en: Skolkovo
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Славянский бульвар
   name_en: Slavyansky Bulvar
@@ -1772,11 +2322,15 @@
   line_uid: "3"
   latitude: 37.4706
   longitude: 55.7296
+  works:
+  status_id:
 -
   name: Славянский бульвар
   name_en: Slavyansky Bulvar
   name_uniq: false
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Смоленская
   name_en: Smolenskaya
@@ -1784,6 +2338,8 @@
   line_uid: "3"
   latitude: 37.5823
   longitude: 55.7474
+  works:
+  status_id:
 -
   name: Смоленская
   name_en: Smolenskaya
@@ -1791,6 +2347,8 @@
   line_uid: "4"
   latitude: 37.5825
   longitude: 55.7488
+  works:
+  status_id:
 -
   name: Сокол
   name_en: Sokol
@@ -1798,6 +2356,8 @@
   line_uid: "2"
   latitude: 37.5153
   longitude: 55.8051
+  works:
+  status_id:
 -
   name: Соколиная Гора
   name_en: Sokolinaya Gora
@@ -1805,6 +2365,8 @@
   line_uid: "14"
   latitude: 37.7451
   longitude: 55.7714
+  works:
+  status_id:
 -
   name: Сокольники
   name_en: Sokolniki
@@ -1812,11 +2374,15 @@
   line_uid: "1"
   latitude: 37.6802
   longitude: 55.7888
+  works:
+  status_id:
 -
   name: Сокольники
   name_en: Sokolniki
   name_uniq: false
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Солнцево
   name_en: Solntsevo
@@ -1824,6 +2390,8 @@
   line_uid: "8A"
   latitude: 37.3909
   longitude: 55.6493
+  works:
+  status_id:
 -
   name: Спартак
   name_en: Spartak
@@ -1831,6 +2399,8 @@
   line_uid: "7"
   latitude: 37.4352
   longitude: 55.8182
+  works:
+  status_id:
 -
   name: Спортивная
   name_en: Sportivnaya
@@ -1838,6 +2408,8 @@
   line_uid: "1"
   latitude: 37.5639
   longitude: 55.7233
+  works:
+  status_id:
 -
   name: Сретенский бульвар
   name_en: Sretensky Bulvar
@@ -1845,6 +2417,8 @@
   line_uid: "10"
   latitude: 37.6392
   longitude: 55.7668
+  works:
+  status_id:
 -
   name: Стахановская
   name_en: Stakhanovskaya
@@ -1852,6 +2426,8 @@
   line_uid: "15"
   latitude: 37.761944
   longitude: 55.725
+  works:
+  status_id:
 -
   name: Стрешнево
   name_en: Streshnevo
@@ -1859,11 +2435,15 @@
   line_uid: "14"
   latitude: 37.487
   longitude: 55.8137
+  works:
+  status_id:
 -
   name: Стрешнево
   name_en: Streshnevo
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Строгино
   name_en: Strogino
@@ -1871,6 +2451,8 @@
   line_uid: "3"
   latitude: 37.4031
   longitude: 55.8038
+  works:
+  status_id:
 -
   name: Студенческая
   name_en: Studencheskaya
@@ -1878,6 +2460,8 @@
   line_uid: "4"
   latitude: 37.5483
   longitude: 55.7388
+  works:
+  status_id:
 -
   name: Суворовская
   name_en: Suvorovskaya
@@ -1885,6 +2469,8 @@
   line_uid: "5"
   latitude: 37.6204
   longitude: 55.7802
+  works:
+  status_id:
 -
   name: Сухаревская
   name_en: Sukharevskaya
@@ -1892,6 +2478,8 @@
   line_uid: "6"
   latitude: 37.6319
   longitude: 55.7733
+  works:
+  status_id:
 -
   name: Сходненская
   name_en: Skhodnenskaya
@@ -1899,6 +2487,8 @@
   line_uid: "7"
   latitude: 37.4396
   longitude: 55.8505
+  works:
+  status_id:
 -
   name: Таганская
   name_en: Taganskaya
@@ -1906,6 +2496,8 @@
   line_uid: "5"
   latitude: 37.6517
   longitude: 55.7418
+  works:
+  status_id:
 -
   name: Таганская
   name_en: Taganskaya
@@ -1913,6 +2505,8 @@
   line_uid: "7"
   latitude: 37.6522
   longitude: 55.7402
+  works:
+  status_id:
 -
   name: Тверская
   name_en: Tverskaya
@@ -1920,6 +2514,8 @@
   line_uid: "2"
   latitude: 37.6065
   longitude: 55.7647
+  works:
+  status_id:
 -
   name: Театральная
   name_en: Teatralnaya
@@ -1927,6 +2523,8 @@
   line_uid: "2"
   latitude: 37.619
   longitude: 55.7578
+  works:
+  status_id:
 -
   name: Текстильщики
   name_en: Tekstilshchiki
@@ -1934,16 +2532,22 @@
   line_uid: "7"
   latitude: 37.7316
   longitude: 55.7088
+  works:
+  status_id:
 -
   name: Текстильщики
   name_en: Tekstilshchiki
   name_uniq: false
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Текстильщики
   name_en: Tekstilshchiki
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Телецентр
   name_en: Teletsentr
@@ -1951,16 +2555,22 @@
   line_uid: "13"
   latitude: 37.6089
   longitude: 55.8218
+  works:
+  status_id:
 -
   name: Терехово
   name_en: Terekhovo
   name_uniq: true
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Тестовская
   name_en: Testovskaya
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Технопарк
   name_en: Tekhnopark
@@ -1968,6 +2578,8 @@
   line_uid: "2"
   latitude: 37.6645
   longitude: 55.6933
+  works:
+  status_id:
 -
   name: Тимирязевская
   name_en: Timiryazevskaya
@@ -1975,6 +2587,8 @@
   line_uid: "9"
   latitude: 37.5765
   longitude: 55.8176
+  works:
+  status_id:
 -
   name: Тимирязевская
   name_en: Timiryazevskaya
@@ -1982,11 +2596,15 @@
   line_uid: "13"
   latitude: 37.5789
   longitude: 55.819
+  works:
+  status_id:
 -
   name: Тимирязевская
   name_en: Timiryazevskaya
   name_uniq: false
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Третьяковская
   name_en: Tretyakovskaya
@@ -1994,16 +2612,22 @@
   line_uid: "6"
   latitude: 37.6274
   longitude: 55.7412
+  works:
+  status_id:
 -
   name: Третьяковская
   name_en: Tretyakovskaya
   name_uniq: false
   line_uid: "8"
+  works:
+  status_id:
 -
   name: Трикотажная
   name_en: Trikotazhnaya
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Тропарёво
   name_en: Troparyovo
@@ -2011,6 +2635,8 @@
   line_uid: "1"
   latitude: 37.4725
   longitude: 55.6459
+  works:
+  status_id:
 -
   name: Трубная
   name_en: Trubnaya
@@ -2018,6 +2644,8 @@
   line_uid: "10"
   latitude: 37.62
   longitude: 55.7688
+  works:
+  status_id:
 -
   name: Тульская
   name_en: Tulskaya
@@ -2025,6 +2653,8 @@
   line_uid: "9"
   latitude: 37.6229
   longitude: 55.7087
+  works:
+  status_id:
 -
   name: Тургеневская
   name_en: Turgenevskaya
@@ -2032,6 +2662,8 @@
   line_uid: "6"
   latitude: 37.6374
   longitude: 55.7661
+  works:
+  status_id:
 -
   name: Тушинская
   name_en: Tushinskaya
@@ -2039,11 +2671,15 @@
   line_uid: "7"
   latitude: 37.4368
   longitude: 55.8267
+  works:
+  status_id:
 -
   name: Тушинская
   name_en: Tushinskaya
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Тёплый стан
   name_en: Tyoply Stan
@@ -2051,6 +2687,8 @@
   line_uid: "6"
   latitude: 37.5082
   longitude: 55.6191
+  works:
+  status_id:
 -
   name: Угрешская
   name_en: Ugreshskaya
@@ -2058,6 +2696,8 @@
   line_uid: "14"
   latitude: 37.6976
   longitude: 55.7185
+  works:
+  status_id:
 -
   name: Ул. Академика Королёва
   name_en: Ulitsa Akademika Korolyova
@@ -2065,6 +2705,8 @@
   line_uid: "13"
   latitude: 37.6269
   longitude: 55.8218
+  works:
+  status_id:
 -
   name: Ул. Милашенкова
   name_en: Ulitsa Milashenkova
@@ -2072,6 +2714,8 @@
   line_uid: "13"
   latitude: 37.5911
   longitude: 55.8218
+  works:
+  status_id:
 -
   name: Ул. Сергея Эйзенштейна
   name_en: Ulitsa Sergeya Eisensteina
@@ -2079,6 +2723,8 @@
   line_uid: "13"
   latitude: 37.6449
   longitude: 55.8292
+  works:
+  status_id:
 -
   name: Улица 1905 года
   name_en: Ulitsa 1905 Goda
@@ -2086,6 +2732,8 @@
   line_uid: "7"
   latitude: 37.5613
   longitude: 55.765
+  works:
+  status_id:
 -
   name: Улица академика Янгеля
   name_en: Ulitsa Akademika Yangelya
@@ -2093,6 +2741,8 @@
   line_uid: "9"
   latitude: 37.6004
   longitude: 55.5949
+  works:
+  status_id:
 -
   name: Улица Горчакова
   name_en: Ulitsa Gorchakova
@@ -2100,6 +2750,8 @@
   line_uid: "12"
   latitude: 37.5308
   longitude: 55.5418
+  works:
+  status_id:
 -
   name: Улица Дмитриевского
   name_en: Ulitsa Dmitriyevskogo
@@ -2107,11 +2759,15 @@
   line_uid: "15"
   latitude: 37.879166
   longitude: 55.71
+  works:
+  status_id:
 -
   name: Улица Новаторов
   name_en: Ulitsa Novatorov
   name_uniq: true
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Улица Скобелевская
   name_en: Ulitsa Skobelevskaya
@@ -2119,6 +2775,8 @@
   line_uid: "12"
   latitude: 37.5546
   longitude: 55.5481
+  works:
+  status_id:
 -
   name: Улица Старокачаловская
   name_en: Ulitsa Starokachalovskaya
@@ -2126,6 +2784,8 @@
   line_uid: "12"
   latitude: 37.5767
   longitude: 55.569
+  works:
+  status_id:
 -
   name: Университет
   name_en: Universitet
@@ -2133,6 +2793,8 @@
   line_uid: "1"
   latitude: 37.5333
   longitude: 55.6926
+  works:
+  status_id:
 -
   name: Филатов Луг
   name_en: Filatov Lug
@@ -2140,6 +2802,8 @@
   line_uid: "1"
   latitude: 37.4077
   longitude: 55.6013
+  works:
+  status_id:
 -
   name: Филёвский парк
   name_en: Filyovsky Park
@@ -2147,6 +2811,8 @@
   line_uid: "4"
   latitude: 37.4833
   longitude: 55.7396
+  works:
+  status_id:
 -
   name: Фили
   name_en: Fili
@@ -2154,11 +2820,15 @@
   longitude: 55.746
   name_uniq: false
   line_uid: "4"
+  works:
+  status_id:
 -
   name: Фили
   name_en: Fili
   name_uniq: false
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Фонвизинская
   name_en: Fonvizinskaya
@@ -2166,6 +2836,8 @@
   line_uid: "10"
   latitude: 37.589967
   longitude: 55.821512
+  works:
+  status_id:
 -
   name: Фрунзенская
   name_en: Frunzenskaya
@@ -2173,11 +2845,15 @@
   line_uid: "1"
   latitude: 37.5786
   longitude: 55.7267
+  works:
+  status_id:
 -
   name: Хлебниково
   name_en: Khlebnikovo
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Ховрино
   name_en: Khovrino
@@ -2185,6 +2861,8 @@
   line_uid: "2"
   latitude: 37.482222
   longitude: 55.879167
+  works:
+  status_id:
 -
   name: Хорошёво
   name_en: Khoroshyovo
@@ -2192,6 +2870,8 @@
   line_uid: "14"
   latitude: 37.5072
   longitude: 55.7772
+  works:
+  status_id:
 -
   name: Хорошёвская
   name_en: Khoroshyovskaya
@@ -2199,6 +2879,8 @@
   line_uid: "8A"
   latitude: 37.5181
   longitude: 55.7766
+  works:
+  status_id:
 -
   name: Хорошёвская
   name_en: Khoroshyovo
@@ -2206,6 +2888,8 @@
   line_uid: "11"
   latitude: 37.5071
   longitude: 55.7773
+  works:
+  status_id:
 -
   name: ЦСКА
   name_en: CSKA
@@ -2213,11 +2897,15 @@
   line_uid: "8A"
   latitude: 37.5333
   longitude: 55.7866
+  works:
+  status_id:
 -
   name: ЦСКА
   name_en: CSKA
   name_uniq: false
   line_uid: "11"
+  works:
+  status_id:
 -
   name: Царицыно
   name_en: Tsaritsyno
@@ -2225,11 +2913,15 @@
   line_uid: "2"
   latitude: 37.6694
   longitude: 55.6214
+  works:
+  status_id:
 -
   name: Царицыно
   name_en: Tsaritsyno
   name_uniq: false
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Цветной бульвар
   name_en: Tsvetnoy Bulvar
@@ -2237,6 +2929,8 @@
   line_uid: "9"
   latitude: 37.6187
   longitude: 55.7708
+  works:
+  status_id:
 -
   name: Черкизовская
   name_en: Cherkizovskaya
@@ -2244,6 +2938,8 @@
   line_uid: "1"
   latitude: 37.7448
   longitude: 55.8038
+  works:
+  status_id:
 -
   name: Чертановская
   name_en: Chertanovskaya
@@ -2251,6 +2947,8 @@
   line_uid: "9"
   latitude: 37.6067
   longitude: 55.6405
+  works:
+  status_id:
 -
   name: Чеховская
   name_en: Chekhovskaya
@@ -2258,6 +2956,8 @@
   line_uid: "9"
   latitude: 37.6097
   longitude: 55.7644
+  works:
+  status_id:
 -
   name: Чистые пруды
   name_en: Chistye Prudy
@@ -2265,6 +2965,8 @@
   line_uid: "1"
   latitude: 37.6388
   longitude: 55.7657
+  works:
+  status_id:
 -
   name: Чкаловская
   name_en: Chkalovskaya
@@ -2272,6 +2974,8 @@
   line_uid: "10"
   latitude: 37.6573
   longitude: 55.7565
+  works:
+  status_id:
 -
   name: Шаболовская
   name_en: Shabolovskaya
@@ -2279,6 +2983,8 @@
   line_uid: "6"
   latitude: 37.6083
   longitude: 55.7198
+  works:
+  status_id:
 -
   name: Шелепиха
   name_en: Shelepikha
@@ -2286,6 +2992,8 @@
   line_uid: "8A"
   latitude: 37.526
   longitude: 55.7567
+  works:
+  status_id:
 -
   name: Шелепиха
   name_en: Shelepikha
@@ -2293,6 +3001,8 @@
   line_uid: "11"
   latitude: 37.524
   longitude: 55.7574
+  works:
+  status_id:
 -
   name: Шелепиха
   name_en: Shelepikha
@@ -2300,11 +3010,15 @@
   line_uid: "14"
   latitude: 37.5263
   longitude: 55.7564
+  works:
+  status_id:
 -
   name: Шереметьевская
   name_en: Sheremetyevskaya
   name_uniq: true
   line_uid: "D1"
+  works:
+  status_id:
 -
   name: Шипиловская
   name_en: Shipilovskaya
@@ -2312,6 +3026,8 @@
   line_uid: "10"
   latitude: 37.7437
   longitude: 55.6211
+  works:
+  status_id:
 -
   name: Шоссе Энтузиастов
   name_en: Shosse Entuziastov
@@ -2319,6 +3035,8 @@
   line_uid: "8"
   latitude: 37.75
   longitude: 55.7576
+  works:
+  status_id:
 -
   name: Шоссе Энтузиастов
   name_en: Shosse Entuziastov
@@ -2326,11 +3044,15 @@
   line_uid: "14"
   latitude: 37.7463
   longitude: 55.7589
+  works:
+  status_id:
 -
   name: Щербинка
   name_en: Shcherbinka
   name_uniq: true
   line_uid: "D2"
+  works:
+  status_id:
 -
   name: Щукинская
   name_en: Shchukinskaya
@@ -2338,6 +3060,8 @@
   line_uid: "7"
   latitude: 37.4641
   longitude: 55.8086
+  works:
+  status_id:
 -
   name: Щёлковская
   name_en: Shchyolkovskaya
@@ -2345,6 +3069,8 @@
   line_uid: "3"
   latitude: 37.7986
   longitude: 55.8094
+  works:
+  status_id:
 -
   name: Электрозаводская
   name_en: Elektrozavodskaya
@@ -2352,6 +3078,8 @@
   line_uid: "3"
   latitude: 37.7037
   longitude: 55.7817
+  works:
+  status_id:
 -
   name: Электрозаводская
   name_en: Elektrozavodskaya
@@ -2359,6 +3087,8 @@
   line_uid: "11"
   latitude: 37.702777
   longitude: 55.780833
+  works:
+  status_id:
 -
   name: Юго-Восточная
   name_en: Yugo-Vostochnaya
@@ -2366,6 +3096,8 @@
   line_uid: "15"
   latitude: 37.818055
   longitude: 55.705
+  works:
+  status_id:
 -
   name: Юго-Западная
   name_en: Yugo-Zapadnaya
@@ -2373,6 +3105,8 @@
   line_uid: "1"
   latitude: 37.4833
   longitude: 55.6637
+  works:
+  status_id:
 -
   name: Южная
   name_en: Yuzhnaya
@@ -2380,6 +3114,8 @@
   line_uid: "9"
   latitude: 37.609
   longitude: 55.6224
+  works:
+  status_id:
 -
   name: Ясенево
   name_en: Yasenevo
@@ -2387,3 +3123,5 @@
   line_uid: "6"
   latitude: 37.5333
   longitude: 55.6063
+  works:
+  status_id:
