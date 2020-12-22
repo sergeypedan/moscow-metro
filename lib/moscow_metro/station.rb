@@ -8,7 +8,7 @@ module MoscowMetro
 
 		Record = Struct.new(*COLUMNS) do
 			def coordinates
-				(latitude && longitude) ? [latitude, longitude] : []
+				[latitude, longitude] if (latitude && longitude)
 			end
 
 			def line
@@ -16,33 +16,48 @@ module MoscowMetro
 			end
 		end
 
-		def self.all
-			RECORDS.map { |record_data| Record.new(*hash_values(COLUMNS, record_data)) }
-		end
+		class << self
 
-		def self.names
-			all.map(&:name).uniq
-		end
+			def all
+				RECORDS.map { |record_data| to_record(record_data) }
+			end
 
-		def self.at_lines(uids)
-			all.select { |station| uids.include? station.line_uid }
-		end
+			def first
+				to_record RECORDS.first
+			end
 
-		def self.at_mcd
-			at_lines Line::UIDS[:mck]
-		end
+			def last
+				to_record RECORDS.last
+			end
 
-		def self.at_mck
-			at_lines Line::UIDS[:mck]
-		end
+			def to_record(record_data)
+				Record.new(*hash_values(COLUMNS, record_data))
+			end
 
-		def self.at_metro
-			at_lines Line::UIDS[:metro]
-		end
+			def names
+				all.map(&:name).uniq
+			end
 
-		def self.at_monorail
-			at_lines Line::UIDS[:monorail]
-		end
+			def at_lines(uids)
+				all.select { |station| uids.include? station.line_uid }
+			end
 
+			def at_mcd
+				at_lines Line::UIDS[:mck]
+			end
+
+			def at_mck
+				at_lines Line::UIDS[:mck]
+			end
+
+			def at_metro
+				at_lines Line::UIDS[:metro]
+			end
+
+			def at_monorail
+				at_lines Line::UIDS[:monorail]
+			end
+
+		end
 	end
 end

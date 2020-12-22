@@ -40,6 +40,14 @@ ul
       =< "(#{station.line.name})" unless station.name_uniq
 ```
 
+```html
+<ul>
+  <li>Автозаводская (Замоскворецкая)</li>
+  <li>Автозаводская (МЦК)</li>
+  <li>Академическая</li> <!-- Академическая только на 1 линии -->
+</ul>
+```
+
 ### UID линий
 
 Московский метрополитен использует некие UID для линий, мы берём его, а не придумываем свои ID. Для большинства линий это Integer, но встречаются линии с UID, состоящим из Integer и строки, как `11A`, поэтому все UID хранятся как String.
@@ -93,7 +101,7 @@ MoscowMetro::Station.all
 
 Использовать gem в качестве источника данных, не создавая таблиц в своей БД.
 
-Для данных о станциях и линиях есть ActiveModel-подобные классы с методами поиска:
+Для данных о станциях и линиях есть ActiveRecord-подобные классы с методами поиска:
 
 ```ruby
 MoscowMetro::Station.all #=> Array of stations
@@ -128,14 +136,26 @@ line.uid                 #=> "1"
 ```
 
 ```ruby
-station = MoscowMetro::Station.all.first #=> #<struct MoscowMetro::Station::Record...>
-station.coordinates #=> [37.7191, 55.7524] || []
+station = MoscowMetro::Station.first #=> #<struct MoscowMetro::Station::Record...>
+station.coordinates #=> [37.7191, 55.7524] || nil
 station.latitude    #=> 37.7191 || nil
 station.longitude   #=> 55.7524 || nil
 station.line_uid    #=> "8"
 station.name        #=> "Авиамоторная"
 station.name_en     #=> "Aviamotornaya" || nil
 station.name_uniq   #=> false || true
+```
+
+и ассоциации:
+
+```ruby
+station = MoscowMetro::Station.first #=> #<struct MoscowMetro::Station::Record...>
+station.line  #=> #<struct MoscowMetro::Line::Record ...>
+```
+
+```ruby
+line = MoscowMetro::Line.all.first #=> #<struct MoscowMetro::Line::Record...>
+line.stations  #=> Array
 ```
 
 ### 2. Хранить станции и линии в БД, а gem использовать для валидаций
