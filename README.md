@@ -5,6 +5,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/379adc59603516bdbc8a/maintainability)](https://codeclimate.com/github/sergeypedan/moscow-metro/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/379adc59603516bdbc8a/test_coverage)](https://codeclimate.com/github/sergeypedan/moscow-metro/test_coverage)
 [![Coverage Status](https://coveralls.io/repos/github/sergeypedan/moscow-metro/badge.svg?branch=master)](https://coveralls.io/github/sergeypedan/moscow-metro?branch=master)
+[![Inline docs](http://inch-ci.org/github/sergeypedan/moscow-metro.svg?branch=master&style=shields)](http://inch-ci.org/github/sergeypedan/moscow-metro)
 
 Список станций и линий Московского метрополитена + хелперы.
 
