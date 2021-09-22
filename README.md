@@ -44,16 +44,16 @@ MoscowMetro::Line.monorail #=> Array of lines
 и attribute-readers у экземпляров:
 
 ```ruby
-line = MoscowMetro::Line.all.first #=> #<struct MoscowMetro::Line::Record...>
+line = MoscowMetro::Line.first #=> #<struct MoscowMetro::Line::Record...>
 line.color               #=> "#f91f22"
 line.name                #=> "Сокольническая"
-line.name_en             #=> "Сокольническая"
+line.name_en             #=> "Sokolnicheskaya"
 line.name_prepositional  #=> "Сокольнической"
 line.uid                 #=> "1"
 ```
 
 ```ruby
-station = MoscowMetro::Station.first #=> #<struct MoscowMetro::Station::Record...>
+station = MoscowMetro::Station.last #=> #<struct MoscowMetro::Station::Record...>
 station.coordinates #=> [37.7191, 55.7524] || nil
 station.latitude    #=> 37.7191 || nil
 station.longitude   #=> 55.7524 || nil
@@ -71,7 +71,7 @@ station.line  #=> #<struct MoscowMetro::Line::Record ...>
 ```
 
 ```ruby
-line = MoscowMetro::Line.all.first #=> #<struct MoscowMetro::Line::Record...>
+line = MoscowMetro::Line.first #=> #<struct MoscowMetro::Line::Record...>
 line.stations  #=> Array
 ```
 
